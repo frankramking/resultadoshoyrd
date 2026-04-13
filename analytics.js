@@ -1,4 +1,4 @@
-const GOOGLE_ANALYTICS_ID = "";
+const GOOGLE_ANALYTICS_ID = "G-05ZS1PYQ32";
 
 if (GOOGLE_ANALYTICS_ID) {
   const googleTagScript = document.createElement("script");
