@@ -1,14 +1,17 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from datetime import datetime, time, timedelta
-from zoneinfo import ZoneInfo
+from datetime import datetime, time, timedelta, timezone
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 from actualizar_nacional import main
 
 
-ZONA_HORARIA = ZoneInfo("America/Santo_Domingo")
-MINUTOS_DESPUES_DEL_SORTEO = 15
+try:
+    ZONA_HORARIA = ZoneInfo("America/Santo_Domingo")
+except ZoneInfoNotFoundError:
+    ZONA_HORARIA = timezone(timedelta(hours=-4), "America/Santo_Domingo")
+MINUTOS_DESPUES_DEL_SORTEO = 0
 MINUTOS_BUSCANDO = 60
 
 

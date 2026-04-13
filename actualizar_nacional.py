@@ -291,6 +291,7 @@ def extraer_loteka_completo(texto: str) -> dict | None:
         r"(\d{2})\s+(\d{2})\s+(\d{2})\s+(\d{2})\s+(\d{2})"
         r"\s+(\d{2}-\d{2})\s+MC Repartidera\s+"
         r"(\d{2})"
+        r"(?:\s+#\d+)?"
         r"\s+(\d{2}-\d{2})\s+MegaLotto\s+"
         r"(\d{2})\s+(\d{2})\s+(\d{2})\s+(\d{2})\s+(\d{2})\s+(\d{2})\s+(\d{2})\s+(\d{2})",
         re.IGNORECASE

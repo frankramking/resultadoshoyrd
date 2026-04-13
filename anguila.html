@@ -13,6 +13,8 @@
   <meta name="google-site-verification" content="T03ggCzb28OOP71d50f2KVVSc9ija2057NBRkXMAHMI">
   <meta name="author" content="Precise Media RD">
   <meta name="theme-color" content="#f07a00">
+  <link rel="icon" type="image/png" href="img/logo.png" sizes="512x512">
+  <link rel="apple-touch-icon" href="img/logo.png">
   <link rel="canonical" href="https://resultadoshoyrd.com/anguila.html">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://resultadoshoyrd.com/anguila.html">
@@ -2210,7 +2212,7 @@ if (ltkml && data.loteka) {
     ].forEach(([contenedor, fecha]) => actualizarFechaTarjeta(contenedor, fecha));
 
     pintarResultado("loteka-quiniela", data.loteka?.quiniela_loteka, "verde", data.loteka?.fecha);
-    pintarResultado("loteka-mega-chance", data.loteka?.mega_chance, "verde", data.loteka?.fecha);
+    pintarResultado("loteka-mega-chance", data.loteka?.mega_chance, "verde", data.loteka?.fecha_mega_chance);
 
     
 
@@ -2371,3 +2373,4 @@ setInterval(cargarResultados, 60000);
 
 </body>
 </html>
+
