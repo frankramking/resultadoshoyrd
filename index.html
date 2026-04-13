@@ -16,8 +16,9 @@
   <meta name="google-site-verification" content="T03ggCzb28OOP71d50f2KVVSc9ija2057NBRkXMAHMI">
   <meta name="author" content="Precise Media RD">
   <meta name="theme-color" content="#f07a00">
-  <link rel="icon" type="image/png" href="img/logo.png?v=20260413-4" sizes="512x512">
-  <link rel="apple-touch-icon" href="img/logo.png?v=20260413-4">
+  <link rel="icon" type="image/png" href="/img/logo.png" sizes="512x512">
+  <link rel="shortcut icon" href="/img/logo.png">
+  <link rel="apple-touch-icon" href="/img/logo.png">
   <link rel="canonical" href="https://resultadoshoyrd.com/">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://resultadoshoyrd.com/">
@@ -44,8 +45,8 @@
   </script>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="style.css?v=20260413-4">
-  <script src="analytics.js?v=20260413-4" defer></script>
+  <link rel="stylesheet" href="style.css?v=20260413-6">
+  <script src="analytics.js?v=20260413-6" defer></script>
 </head>
 
 <body>
@@ -2084,8 +2085,15 @@ async function cargarResultados() {
     let res = await fetch(archivoResultados);
 
     if (!res.ok && fechaResultados) {
-      console.warn(`No encontre ${archivoResultados}. Mostrando resultados actuales.`);
-      res = await fetch("resultados.json?t=" + Date.now());
+      const grid = document.querySelector(".resultados-grid");
+      if (grid) {
+        grid.innerHTML = `<article class="resultado-card"><div class="card-body"><div class="card-header"><h3>No hay resultados guardados para ${fechaResultados}</h3></div><p>Elige otra fecha dentro del último mes.</p></div></article>`;
+      }
+      return;
+    }
+
+    if (!res.ok) {
+      throw new Error(`No pude cargar ${archivoResultados}`);
     }
 
     const data = await res.json();
@@ -2454,6 +2462,9 @@ setInterval(cargarResultados, 60000);
 
 </body>
 </html>
+
+
+
 
 
 

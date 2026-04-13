@@ -219,7 +219,7 @@ def extraer_real(texto: str) -> dict | None:
     )
 
     nueva_yol = re.search(
-        r"(\d{2}-\d{2})\s+Nueva Yol Real\s+(\d{2})\s+(\d{2})\s+(\d{2})\s+(Roja|Verde|Azul)",
+        r"(\d{2}-\d{2})\s+Nueva Yol Real\s+(\d{2})\s+(\d{2})\s+(\d{2})\s+(Roja|Verde|Azul|Amarilla)",
         texto,
         re.IGNORECASE,
     )
