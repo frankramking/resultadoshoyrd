@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <!-- =========================================================
@@ -45,7 +45,7 @@
   </script>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="style.css?v=20260413-6">
+  <link rel="stylesheet" href="style.css?v=20260413-7">
   <script src="analytics.js?v=20260413-6" defer></script>
 </head>
 
@@ -69,10 +69,10 @@
       </div>
 
       <!-- CENTRO: LOGO -->
-      <button class="logo-center" id="logoResultadosHoy" type="button" aria-label="Actualizar Resultados Hoy">
+      <a class="logo-center" id="logoResultadosHoy" href="index.html" aria-label="Ir al inicio de Resultados Hoy">
         <span class="logo-small">RESULTADOS</span>
         <span class="logo-big">HOY</span>
-      </button>
+      </a>
 
       <!-- DERECHA: BOTÓN + MENÚ -->
       <div class="top-right">
@@ -1810,7 +1810,7 @@
   });
 
   logoResultadosHoy.addEventListener("click", function () {
-    window.location.href = window.location.pathname;
+    window.location.href = "index.html";
   });
 
   const formatearFechaPantalla = (fechaISO) => {
