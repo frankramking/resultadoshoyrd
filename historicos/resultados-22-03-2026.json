@@ -1,0 +1,346 @@
+{
+  "actualizado": "2026-04-12 12:12:13",
+  "nacional": {
+    "fecha": "22-03",
+    "juega_pega": [
+      "22",
+      "14",
+      "13",
+      "14",
+      "12"
+    ],
+    "gana_mas": [
+      "07",
+      "98",
+      "36"
+    ],
+    "loteria_nacional": [
+      "05",
+      "57",
+      "33"
+    ]
+  },
+  "leidsa": {
+    "fecha": "22-03",
+    "pega_3_mas": [
+      "19",
+      "17",
+      "20"
+    ],
+    "quiniela_leidsa": [
+      "63",
+      "04",
+      "32"
+    ],
+    "fecha_loto_pool": "22-03",
+    "loto_pool": [
+      "08",
+      "10",
+      "14",
+      "16",
+      "22"
+    ],
+    "fecha_super_kino": "22-03",
+    "super_kino_tv": [
+      "04",
+      "07",
+      "13",
+      "14",
+      "17",
+      "21",
+      "31",
+      "32",
+      "34",
+      "36",
+      "42",
+      "47",
+      "50",
+      "54",
+      "55",
+      "58",
+      "62",
+      "73",
+      "75",
+      "79"
+    ],
+    "fecha_loto_super_loto": "21-03",
+    "loto_super_loto_mas": [
+      "07",
+      "08",
+      "16",
+      "17",
+      "21",
+      "39",
+      "10",
+      "07"
+    ],
+    "fecha_super_pale": "22-03",
+    "super_pale": [
+      "63",
+      "05"
+    ]
+  },
+  "real": {
+    "fecha": "22-03",
+    "quiniela_real": [
+      "76",
+      "29",
+      "41"
+    ],
+    "loto_pool_real": [
+      "19",
+      "68",
+      "61",
+      "69"
+    ],
+    "loto_real": [
+      "19",
+      "20",
+      "23",
+      "24",
+      "28",
+      "33"
+    ],
+    "loto_pool_noche": [
+      "75",
+      "10",
+      "04",
+      "21"
+    ]
+  },
+  "loteka": {
+    "fecha_toca_3": "22-03",
+    "toca_3": [
+      "7",
+      "3",
+      "9"
+    ],
+    "fecha": "22-03",
+    "quiniela_loteka": [
+      "86",
+      "24",
+      "76"
+    ],
+    "fecha_mega_chance": "22-03",
+    "mega_chance": [
+      "37",
+      "06",
+      "20",
+      "72",
+      "83"
+    ],
+    "fecha_mc_repartidera": "22-03",
+    "mc_repartidera": [
+      "30"
+    ],
+    "fecha_megalotto": "19-03",
+    "megalotto": [
+      "01",
+      "05",
+      "07",
+      "10",
+      "25",
+      "27",
+      "01",
+      "02"
+    ]
+  },
+  "primera": {
+    "fecha_quinielon_dia": "22-03",
+    "quinielon_dia": [
+      "97"
+    ],
+    "fecha_dia": "22-03",
+    "la_primera_dia": [
+      "17",
+      "67",
+      "43"
+    ],
+    "fecha_quinielon_noche": "22-03",
+    "quinielon_noche": [
+      "45"
+    ],
+    "fecha_noche": "22-03",
+    "primera_noche": [
+      "35",
+      "64",
+      "00"
+    ],
+    "fecha_loto5": "22-03",
+    "loto_5": [
+      "01",
+      "11",
+      "19",
+      "18",
+      "38",
+      "03"
+    ]
+  },
+  "suerte": {
+    "fecha_1230": "22-03",
+    "la_suerte_1230": [
+      "31",
+      "88",
+      "78"
+    ],
+    "fecha_1800": "22-03",
+    "la_suerte_1800": [
+      "20",
+      "29",
+      "27"
+    ]
+  },
+  "lotedom": {
+    "fecha_quiniela": "22-03",
+    "quiniela_lotedom": [
+      "43",
+      "07",
+      "15"
+    ],
+    "fecha_quemaito": "22-03",
+    "quemaito_mayor": [
+      "91"
+    ]
+  },
+  "anguila": {
+    "fecha_manana": "22-03",
+    "anguila_manana": [
+      "70",
+      "24",
+      "35"
+    ],
+    "fecha_medio_dia": "22-03",
+    "anguila_medio_dia": [
+      "79",
+      "56",
+      "15"
+    ],
+    "fecha_tarde": "22-03",
+    "anguila_tarde": [
+      "25",
+      "25",
+      "83"
+    ],
+    "fecha_noche": "22-03",
+    "anguila_noche": [
+      "18",
+      "81",
+      "71"
+    ]
+  },
+  "king_lottery": {
+    "fecha_1230": "22-03",
+    "king_1230": [
+      "95",
+      "62",
+      "34"
+    ],
+    "fecha_730": "22-03",
+    "king_730": [
+      "33",
+      "35",
+      "26"
+    ]
+  },
+  "new_york": {
+    "fecha_tarde": "22-03",
+    "new_york_tarde": [
+      "92",
+      "45",
+      "13"
+    ],
+    "fecha_noche": "22-03",
+    "new_york_noche": [
+      "18",
+      "07",
+      "83"
+    ]
+  },
+  "new_york_completo": {
+    "fecha_numbers_medio_dia": "22-03",
+    "numbers_medio_dia": [
+      "8",
+      "9",
+      "2"
+    ],
+    "fecha_win4_medio_dia": "22-03",
+    "win4_medio_dia": [
+      "4",
+      "5",
+      "1",
+      "3"
+    ],
+    "fecha_numbers_noche": "22-03",
+    "numbers_noche": [
+      "6",
+      "1",
+      "8"
+    ],
+    "fecha_take5_midday": "22-03",
+    "take5_midday": [
+      "06",
+      "10",
+      "17",
+      "33",
+      "37"
+    ],
+    "fecha_win4_noche": "22-03",
+    "win4_noche": [
+      "0",
+      "7",
+      "8",
+      "3"
+    ],
+    "fecha_take5_noche": "22-03",
+    "take5_noche": [
+      "08",
+      "10",
+      "23",
+      "25",
+      "32"
+    ],
+    "fecha_new_york_lotto": "21-03",
+    "new_york_lotto": [
+      "19",
+      "14",
+      "02",
+      "09",
+      "31",
+      "23",
+      "47"
+    ]
+  },
+  "americanas": {
+    "fecha_florida_dia": "22-03",
+    "florida_dia": [
+      "85",
+      "56",
+      "93"
+    ],
+    "fecha_florida_noche": "22-03",
+    "florida_noche": [
+      "76",
+      "55",
+      "51"
+    ],
+    "fecha_mega_millions": "20-03",
+    "mega_millions": [
+      "11",
+      "20",
+      "51",
+      "55",
+      "63",
+      "04"
+    ],
+    "fecha_powerball": "21-03",
+    "powerball": [
+      "12",
+      "28",
+      "36",
+      "41",
+      "59",
+      "02"
+    ],
+    "powerplay": "2X"
+  }
+}
