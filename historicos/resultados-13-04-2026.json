@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-04-13 22:31:45",
+  "actualizado": "2026-04-14 03:12:14",
   "nacional": {
     "fecha": "13-04",
     "fecha_juega_pega": "13-04",
     "fecha_gana_mas": "13-04",
-    "fecha_loteria_nacional": "12-04",
+    "fecha_loteria_nacional": "13-04",
     "juega_pega": [
       "21",
       "11",
@@ -18,9 +18,9 @@
       "44"
     ],
     "loteria_nacional": [
-      "78",
-      "52",
-      "13"
+      "40",
+      "42",
+      "68"
     ],
     "fecha_billetes_domingo": "12-04",
     "billetes_domingo": [
@@ -30,47 +30,47 @@
     ]
   },
   "leidsa": {
-    "fecha": "12-04",
+    "fecha": "13-04",
     "pega_3_mas": [
-      "31",
-      "13",
-      "19"
+      "12",
+      "26",
+      "05"
     ],
     "quiniela_leidsa": [
-      "63",
-      "18",
-      "67"
-    ],
-    "fecha_loto_pool": "12-04",
-    "loto_pool": [
+      "65",
       "09",
-      "20",
-      "23",
-      "30",
-      "31"
+      "18"
     ],
-    "fecha_super_kino": "12-04",
-    "super_kino_tv": [
-      "13",
-      "14",
+    "fecha_loto_pool": "13-04",
+    "loto_pool": [
+      "03",
+      "11",
       "16",
-      "21",
-      "29",
+      "18",
+      "28"
+    ],
+    "fecha_super_kino": "13-04",
+    "super_kino_tv": [
+      "01",
+      "03",
+      "05",
+      "10",
+      "11",
+      "14",
+      "17",
+      "23",
+      "25",
+      "31",
       "34",
-      "41",
+      "47",
       "51",
       "53",
-      "54",
-      "55",
-      "56",
       "61",
-      "62",
-      "68",
       "70",
-      "73",
-      "74",
+      "71",
+      "72",
       "75",
-      "77"
+      "78"
     ],
     "fecha_loto_super_loto": "11-04",
     "loto_super_loto_mas": [
@@ -83,10 +83,10 @@
       "08",
       "13"
     ],
-    "fecha_super_pale": "12-04",
+    "fecha_super_pale": "13-04",
     "super_pale": [
-      "63",
-      "78"
+      "65",
+      "40"
     ]
   },
   "real": {
@@ -95,7 +95,7 @@
     "tu_fecha_real": [
       "02"
     ],
-    "fecha_pega4_real": "31-03 No Sorteo Hoy",
+    "fecha_pega4_real": "31-03",
     "pega4_real": [
       "3",
       "8",
@@ -135,61 +135,61 @@
       "28",
       "37"
     ],
-    "fecha_chance_real": "12-04",
+    "fecha_chance_real": "13-04",
     "chance_real": [
-      "26",
-      "06",
-      "03",
-      "74",
-      "34"
+      "15",
+      "58",
+      "66",
+      "44",
+      "26"
     ],
-    "fecha_repartidera_real": "12-04",
+    "fecha_repartidera_real": "13-04",
     "repartidera_real": [
-      "81"
+      "84"
     ],
-    "fecha_loto_pool_noche": "12-04",
+    "fecha_loto_pool_noche": "13-04",
     "loto_pool_noche": [
-      "81",
-      "00",
-      "91",
-      "87"
+      "96",
+      "78",
+      "16",
+      "12"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "12-04",
+    "fecha_toca_3": "13-04",
     "toca_3": [
-      "2",
-      "8",
-      "0"
+      "3",
+      "3",
+      "2"
     ],
-    "fecha": "12-04",
+    "fecha": "13-04",
     "quiniela_loteka": [
-      "78",
-      "74",
-      "11"
+      "32",
+      "93",
+      "70"
     ],
-    "fecha_mega_chance": "12-04",
+    "fecha_mega_chance": "13-04",
     "mega_chance": [
-      "14",
-      "50",
-      "73",
-      "06",
-      "68"
+      "37",
+      "35",
+      "32",
+      "81",
+      "63"
     ],
-    "fecha_mc_repartidera": "12-04",
+    "fecha_mc_repartidera": "13-04",
     "mc_repartidera": [
-      "92"
+      "59"
     ],
-    "fecha_megalotto": "09-04",
+    "fecha_megalotto": "13-04",
     "megalotto": [
+      "10",
+      "12",
+      "19",
+      "23",
+      "25",
+      "32",
       "03",
-      "08",
-      "13",
-      "17",
-      "20",
-      "21",
-      "02",
-      "05"
+      "03"
     ]
   },
   "primera": {
@@ -203,24 +203,24 @@
       "71",
       "79"
     ],
-    "fecha_quinielon_noche": "12-04",
+    "fecha_quinielon_noche": "13-04",
     "quinielon_noche": [
-      "42"
+      "50"
     ],
-    "fecha_noche": "12-04",
+    "fecha_noche": "13-04",
     "primera_noche": [
-      "70",
-      "07",
-      "31"
-    ],
-    "fecha_loto5": "12-04",
-    "loto_5": [
-      "27",
       "19",
+      "11",
+      "66"
+    ],
+    "fecha_loto5": "13-04",
+    "loto_5": [
       "01",
-      "15",
-      "31",
-      "01"
+      "33",
+      "23",
+      "37",
+      "20",
+      "06"
     ]
   },
   "suerte": {
@@ -248,8 +248,11 @@
     "quemaito_mayor": [
       "59"
     ],
-    "fecha_super_pale": "",
-    "super_pale": [],
+    "fecha_super_pale": "13-04",
+    "super_pale": [
+      "15",
+      "59"
+    ],
     "fecha_agarra_4": "13-04",
     "agarra_4": [
       "15",
@@ -298,18 +301,18 @@
       "36",
       "99"
     ],
-    "fecha_noche": "12-04",
+    "fecha_noche": "13-04",
     "anguila_noche": [
-      "29",
-      "26",
-      "22"
+      "05",
+      "01",
+      "70"
     ],
-    "fecha_cuarteta_noche": "12-04",
+    "fecha_cuarteta_noche": "13-04",
     "cuarteta_noche": [
-      "03",
-      "06",
-      "28",
-      "89"
+      "07",
+      "55",
+      "61",
+      "28"
     ]
   },
   "king_lottery": {
@@ -319,11 +322,11 @@
       "57",
       "31"
     ],
-    "fecha_730": "12-04",
+    "fecha_730": "13-04",
     "king_730": [
-      "48",
-      "70",
-      "68"
+      "08",
+      "96",
+      "36"
     ],
     "fecha_pick3_dia": "13-04",
     "pick3_dia": [
@@ -351,31 +354,31 @@
       "23",
       "85"
     ],
-    "fecha_pick3_noche": "12-04",
+    "fecha_pick3_noche": "13-04",
     "pick3_noche": [
       "3",
-      "4",
-      "8"
-    ],
-    "fecha_pick4_noche": "12-04",
-    "pick4_noche": [
-      "7",
       "0",
-      "6",
       "8"
     ],
-    "fecha_philipsburg_noche": "12-04",
-    "philipsburg_noche": [
-      "3873",
-      "6116",
-      "6192"
+    "fecha_pick4_noche": "13-04",
+    "pick4_noche": [
+      "9",
+      "6",
+      "3",
+      "6"
     ],
-    "fecha_loto_pool_noche": "12-04",
+    "fecha_philipsburg_noche": "13-04",
+    "philipsburg_noche": [
+      "6848",
+      "0958",
+      "1601"
+    ],
+    "fecha_loto_pool_noche": "13-04",
     "loto_pool_noche": [
-      "79",
-      "98",
-      "75",
-      "56"
+      "41",
+      "34",
+      "07",
+      "25"
     ]
   },
   "new_york": {
@@ -385,11 +388,11 @@
       "73",
       "05"
     ],
-    "fecha_noche": "12-04",
+    "fecha_noche": "13-04",
     "new_york_noche": [
-      "16",
-      "85",
-      "31"
+      "58",
+      "15",
+      "95"
     ]
   },
   "new_york_completo": {
@@ -406,11 +409,11 @@
       "0",
       "5"
     ],
-    "fecha_numbers_noche": "12-04",
+    "fecha_numbers_noche": "13-04",
     "numbers_noche": [
-      "2",
-      "1",
-      "6"
+      "4",
+      "5",
+      "8"
     ],
     "fecha_take5_midday": "13-04",
     "take5_midday": [
@@ -420,20 +423,20 @@
       "18",
       "25"
     ],
-    "fecha_win4_noche": "12-04",
+    "fecha_win4_noche": "13-04",
     "win4_noche": [
-      "8",
+      "1",
       "5",
-      "3",
-      "1"
+      "9",
+      "5"
     ],
-    "fecha_take5_noche": "12-04",
+    "fecha_take5_noche": "13-04",
     "take5_noche": [
-      "01",
-      "02",
-      "04",
-      "14",
-      "36"
+      "15",
+      "20",
+      "23",
+      "31",
+      "38"
     ],
     "fecha_new_york_lotto": "11-04",
     "new_york_lotto": [
@@ -453,11 +456,11 @@
       "90",
       "25"
     ],
-    "fecha_florida_noche": "12-04",
+    "fecha_florida_noche": "13-04",
     "florida_noche": [
-      "68",
-      "14",
-      "52"
+      "70",
+      "74",
+      "13"
     ],
     "fecha_mega_millions": "10-04",
     "mega_millions": [
@@ -468,24 +471,24 @@
       "49",
       "06"
     ],
-    "fecha_powerball": "11-04",
+    "fecha_powerball": "13-04",
     "powerball": [
-      "06",
-      "47",
-      "49",
-      "53",
-      "60",
-      "06"
+      "38",
+      "43",
+      "59",
+      "63",
+      "64",
+      "15"
     ],
-    "powerplay": "2X",
-    "fecha_powerball_double_play": "11-04",
+    "powerplay": "3X",
+    "fecha_powerball_double_play": "13-04",
     "powerball_double_play": [
-      "01",
-      "04",
-      "22",
-      "36",
-      "48",
-      "17"
+      "25",
+      "30",
+      "39",
+      "47",
+      "56",
+      "16"
     ],
     "fecha_cash_4_life": "21-02",
     "cash_4_life": [
