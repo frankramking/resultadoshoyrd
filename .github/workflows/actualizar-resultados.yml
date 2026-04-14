@@ -24,8 +24,8 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Buscar resultados si toca
-        run: python actualizar_programado.py
+      - name: Buscar resultados
+        run: python actualizar_nacional.py
 
       - name: Guardar cambios
         uses: stefanzweifel/git-auto-commit-action@v5
