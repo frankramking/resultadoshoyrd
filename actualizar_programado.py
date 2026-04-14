@@ -76,7 +76,8 @@ def main_programado() -> None:
     print(f"Hora RD: {ahora:%Y-%m-%d %H:%M:%S}")
 
     if not activos:
-        print("No hay sorteos dentro de la ventana de busqueda.")
+        print("No hay sorteos dentro de la ventana principal, pero se revisa igual para no perder actualizaciones tardias.")
+        main()
         return
 
     nombres = ", ".join(sorteo.nombre for sorteo in activos)
