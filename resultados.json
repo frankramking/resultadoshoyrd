@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-04-14 13:06:30",
+  "actualizado": "2026-04-14 19:50:51",
   "nacional": {
-    "fecha": "13-04",
-    "fecha_juega_pega": "13-04",
-    "fecha_gana_mas": "13-04",
+    "fecha": "14-04",
+    "fecha_juega_pega": "14-04",
+    "fecha_gana_mas": "14-04",
     "fecha_loteria_nacional": "13-04",
     "juega_pega": [
-      "21",
-      "11",
-      "13",
+      "02",
+      "09",
+      "02",
       "01",
-      "15"
+      "01"
     ],
     "gana_mas": [
-      "37",
-      "62",
-      "44"
+      "61",
+      "03",
+      "84"
     ],
     "loteria_nacional": [
       "40",
@@ -130,10 +130,10 @@
       "29",
       "30"
     ],
-    "fecha_super_pale": "13-04",
+    "fecha_super_pale": "14-04",
     "super_pale": [
-      "28",
-      "37"
+      "34",
+      "61"
     ],
     "fecha_chance_real": "13-04",
     "chance_real": [
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "13-04",
+    "fecha_tarde": "14-04",
     "new_york_tarde": [
-      "75",
-      "73",
-      "05"
+      "60",
+      "25",
+      "07"
     ],
     "fecha_noche": "13-04",
     "new_york_noche": [
@@ -396,18 +396,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "13-04",
+    "fecha_numbers_medio_dia": "14-04",
     "numbers_medio_dia": [
-      "7",
-      "7",
-      "5"
+      "4",
+      "6",
+      "0"
     ],
-    "fecha_win4_medio_dia": "13-04",
+    "fecha_win4_medio_dia": "14-04",
     "win4_medio_dia": [
-      "7",
-      "3",
+      "2",
+      "5",
       "0",
-      "5"
+      "7"
     ],
     "fecha_numbers_noche": "13-04",
     "numbers_noche": [
@@ -415,13 +415,13 @@
       "5",
       "8"
     ],
-    "fecha_take5_midday": "13-04",
+    "fecha_take5_midday": "14-04",
     "take5_midday": [
-      "08",
-      "10",
-      "16",
-      "18",
-      "25"
+      "06",
+      "24",
+      "28",
+      "30",
+      "34"
     ],
     "fecha_win4_noche": "13-04",
     "win4_noche": [
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "13-04",
+    "fecha_florida_dia": "14-04",
     "florida_dia": [
-      "65",
-      "90",
-      "25"
+      "12",
+      "18",
+      "43"
     ],
     "fecha_florida_noche": "13-04",
     "florida_noche": [
