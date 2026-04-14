@@ -1,6 +1,7 @@
-﻿import json
+import json
 import re
 import sys
+from collections.abc import Mapping
 from pathlib import Path
 
 import requests
@@ -558,7 +559,7 @@ def extraer_lotedom(texto: str) -> dict | None:
         "agarra_4": [],
     }
 
-    super_pale = buscar(r"Super Pal[Ã©e]", 2)
+    super_pale = buscar(r"Super Pal\S*", 2)
     agarra_4 = buscar(r"Agarra 4", 4)
 
     if super_pale:
@@ -888,9 +889,42 @@ def guardar_json(data: dict, archivo: Path = ARCHIVO_JSON) -> None:
     )
 
 
-def archivo_historico_hoy() -> Path:
-    fecha_hoy = datetime.now(ZONA_RD).strftime("%d-%m-%Y")
-    return CARPETA_HISTORICOS / f"resultados-{fecha_hoy}.json"
+def extraer_fechas_resultados(data: object) -> list[datetime.date]:
+    fechas: list[datetime.date] = []
+    hoy = datetime.now(ZONA_RD).date()
+
+    def recorrer(valor: object, clave: str = "") -> None:
+        if isinstance(valor, Mapping):
+            for subclave, subvalor in valor.items():
+                recorrer(subvalor, str(subclave))
+            return
+
+        if not clave.startswith("fecha") or not isinstance(valor, str):
+            return
+
+        match = re.search(r"\b(\d{2})-(\d{2})\b", valor)
+        if not match:
+            return
+
+        dia, mes = map(int, match.groups())
+        try:
+            fecha = datetime(hoy.year, mes, dia, tzinfo=ZONA_RD).date()
+        except ValueError:
+            return
+
+        if fecha > hoy + timedelta(days=1):
+            fecha = datetime(hoy.year - 1, mes, dia, tzinfo=ZONA_RD).date()
+
+        fechas.append(fecha)
+
+    recorrer(data)
+    return fechas
+
+
+def archivo_historico_resultados(data: dict) -> Path:
+    fechas = extraer_fechas_resultados(data)
+    fecha_resultados = max(fechas) if fechas else datetime.now(ZONA_RD).date()
+    return CARPETA_HISTORICOS / f"resultados-{fecha_resultados:%d-%m-%Y}.json"
 
 
 def limpiar_historicos_antiguos() -> None:
@@ -1027,7 +1061,7 @@ def main(fecha_consulta: str | None = None):
 
         if sin_cambios_nacional and sin_cambios_leidsa and sin_cambios_real and sin_cambios_loteka and sin_cambios_primera and sin_cambios_suerte and sin_cambios_lotedom and sin_cambios_anguila and sin_cambios_king_lottery and sin_cambios_new_york and sin_cambios_new_york_completo and sin_cambios_americanas:
             if not fecha_consulta and data_actual:
-                archivo_hoy = archivo_historico_hoy()
+                archivo_hoy = archivo_historico_resultados(data_actual)
                 guardar_json(data_actual, archivo_hoy)
                 limpiar_historicos_antiguos()
                 print(f"Historico de hoy revisado en {archivo_hoy}")
@@ -1054,7 +1088,7 @@ def main(fecha_consulta: str | None = None):
         print(f"ðŸ’¾ Guardado en {archivo_salida}")
 
         if not fecha_consulta:
-            archivo_hoy = archivo_historico_hoy()
+            archivo_hoy = archivo_historico_resultados(data_actual)
             guardar_json(data_actual, archivo_hoy)
             limpiar_historicos_antiguos()
             print(f"Historico de hoy actualizado en {archivo_hoy}")

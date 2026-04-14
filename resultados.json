@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-14 01:54:00",
+  "actualizado": "2026-04-14 03:12:14",
   "nacional": {
     "fecha": "13-04",
     "fecha_juega_pega": "13-04",
@@ -248,8 +248,11 @@
     "quemaito_mayor": [
       "59"
     ],
-    "fecha_super_pale": "",
-    "super_pale": [],
+    "fecha_super_pale": "13-04",
+    "super_pale": [
+      "15",
+      "59"
+    ],
     "fecha_agarra_4": "13-04",
     "agarra_4": [
       "15",
