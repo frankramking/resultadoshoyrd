@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-15 18:48:32",
+  "actualizado": "2026-04-16 00:02:30",
   "nacional": {
     "fecha": "15-04",
     "fecha_juega_pega": "15-04",
@@ -135,50 +135,50 @@
       "99",
       "51"
     ],
-    "fecha_chance_real": "14-04",
+    "fecha_chance_real": "15-04",
     "chance_real": [
-      "87",
-      "76",
-      "75",
-      "91",
-      "77"
-    ],
-    "fecha_repartidera_real": "14-04",
-    "repartidera_real": [
-      "83"
-    ],
-    "fecha_loto_pool_noche": "14-04",
-    "loto_pool_noche": [
-      "15",
+      "23",
+      "59",
+      "45",
       "44",
-      "14",
-      "24"
+      "66"
+    ],
+    "fecha_repartidera_real": "15-04",
+    "repartidera_real": [
+      "37"
+    ],
+    "fecha_loto_pool_noche": "15-04",
+    "loto_pool_noche": [
+      "86",
+      "62",
+      "26",
+      "71"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "14-04",
+    "fecha_toca_3": "15-04",
     "toca_3": [
-      "9",
-      "3",
-      "1"
+      "7",
+      "7",
+      "7"
     ],
-    "fecha": "14-04",
+    "fecha": "15-04",
     "quiniela_loteka": [
-      "09",
-      "93",
-      "59"
-    ],
-    "fecha_mega_chance": "14-04",
-    "mega_chance": [
-      "25",
-      "01",
+      "40",
       "55",
-      "21",
-      "01"
+      "78"
     ],
-    "fecha_mc_repartidera": "14-04",
+    "fecha_mega_chance": "15-04",
+    "mega_chance": [
+      "18",
+      "71",
+      "97",
+      "59",
+      "82"
+    ],
+    "fecha_mc_repartidera": "15-04",
     "mc_repartidera": [
-      "14"
+      "10"
     ],
     "fecha_megalotto": "13-04",
     "megalotto": [
@@ -203,24 +203,24 @@
       "49",
       "59"
     ],
-    "fecha_quinielon_noche": "14-04",
+    "fecha_quinielon_noche": "15-04",
     "quinielon_noche": [
-      "06"
+      "08"
     ],
-    "fecha_noche": "14-04",
+    "fecha_noche": "15-04",
     "primera_noche": [
-      "07",
-      "85",
-      "74"
+      "73",
+      "93",
+      "08"
     ],
-    "fecha_loto5": "14-04",
+    "fecha_loto5": "15-04",
     "loto_5": [
+      "12",
       "03",
-      "37",
-      "25",
-      "31",
-      "16",
-      "06"
+      "33",
+      "20",
+      "21",
+      "05"
     ]
   },
   "suerte": {
@@ -230,11 +230,11 @@
       "55",
       "30"
     ],
-    "fecha_1800": "14-04",
+    "fecha_1800": "15-04",
     "la_suerte_1800": [
-      "32",
-      "47",
-      "42"
+      "21",
+      "00",
+      "79"
     ]
   },
   "lotedom": {
@@ -288,18 +288,18 @@
       "37",
       "81"
     ],
-    "fecha_tarde": "14-04",
+    "fecha_tarde": "15-04",
     "anguila_tarde": [
-      "65",
-      "28",
-      "47"
+      "29",
+      "66",
+      "56"
     ],
-    "fecha_cuarteta_tarde": "14-04",
+    "fecha_cuarteta_tarde": "15-04",
     "cuarteta_tarde": [
-      "62",
-      "59",
-      "91",
-      "03"
+      "63",
+      "35",
+      "73",
+      "99"
     ],
     "fecha_noche": "14-04",
     "anguila_noche": [
@@ -322,11 +322,11 @@
       "79",
       "27"
     ],
-    "fecha_730": "14-04",
+    "fecha_730": "15-04",
     "king_730": [
-      "67",
-      "12",
-      "74"
+      "82",
+      "77",
+      "06"
     ],
     "fecha_pick3_dia": "15-04",
     "pick3_dia": [
@@ -354,31 +354,31 @@
       "45",
       "76"
     ],
-    "fecha_pick3_noche": "14-04",
+    "fecha_pick3_noche": "15-04",
     "pick3_noche": [
-      "5",
       "6",
-      "7"
+      "8",
+      "2"
     ],
-    "fecha_pick4_noche": "14-04",
+    "fecha_pick4_noche": "15-04",
     "pick4_noche": [
-      "1",
-      "2",
       "7",
-      "4"
+      "7",
+      "0",
+      "6"
     ],
-    "fecha_philipsburg_noche": "14-04",
+    "fecha_philipsburg_noche": "15-04",
     "philipsburg_noche": [
-      "9265",
-      "3596",
-      "0072"
+      "1436",
+      "3651",
+      "0780"
     ],
-    "fecha_loto_pool_noche": "14-04",
+    "fecha_loto_pool_noche": "15-04",
     "loto_pool_noche": [
-      "65",
+      "44",
       "46",
-      "28",
-      "47"
+      "87",
+      "72"
     ]
   },
   "new_york": {
