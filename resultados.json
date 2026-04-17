@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-16 19:52:18",
+  "actualizado": "2026-04-17 00:06:50",
   "nacional": {
     "fecha": "16-04",
     "fecha_juega_pega": "16-04",
@@ -135,61 +135,61 @@
       "24",
       "27"
     ],
-    "fecha_chance_real": "15-04",
+    "fecha_chance_real": "16-04",
     "chance_real": [
-      "23",
-      "59",
-      "45",
-      "44",
-      "66"
+      "02",
+      "31",
+      "61",
+      "50",
+      "10"
     ],
-    "fecha_repartidera_real": "15-04",
+    "fecha_repartidera_real": "16-04",
     "repartidera_real": [
-      "37"
+      "83"
     ],
-    "fecha_loto_pool_noche": "15-04",
+    "fecha_loto_pool_noche": "16-04",
     "loto_pool_noche": [
-      "86",
-      "62",
-      "26",
-      "71"
+      "48",
+      "81",
+      "09",
+      "20"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "15-04",
+    "fecha_toca_3": "16-04",
     "toca_3": [
-      "7",
-      "7",
+      "8",
+      "6",
       "7"
     ],
-    "fecha": "15-04",
+    "fecha": "16-04",
     "quiniela_loteka": [
-      "40",
-      "55",
-      "78"
+      "75",
+      "35",
+      "88"
     ],
-    "fecha_mega_chance": "15-04",
+    "fecha_mega_chance": "16-04",
     "mega_chance": [
-      "18",
-      "71",
+      "31",
+      "70",
       "97",
-      "59",
-      "82"
+      "47",
+      "17"
     ],
-    "fecha_mc_repartidera": "15-04",
+    "fecha_mc_repartidera": "16-04",
     "mc_repartidera": [
-      "10"
+      "33"
     ],
-    "fecha_megalotto": "13-04",
+    "fecha_megalotto": "16-04",
     "megalotto": [
+      "06",
+      "07",
       "10",
-      "12",
-      "19",
-      "23",
+      "13",
+      "21",
       "25",
-      "32",
-      "03",
-      "03"
+      "01",
+      "06"
     ]
   },
   "primera": {
@@ -203,24 +203,24 @@
       "36",
       "73"
     ],
-    "fecha_quinielon_noche": "15-04",
+    "fecha_quinielon_noche": "16-04",
     "quinielon_noche": [
-      "08"
+      "26"
     ],
-    "fecha_noche": "15-04",
+    "fecha_noche": "16-04",
     "primera_noche": [
-      "73",
-      "93",
-      "08"
+      "65",
+      "81",
+      "90"
     ],
-    "fecha_loto5": "15-04",
+    "fecha_loto5": "16-04",
     "loto_5": [
-      "12",
-      "03",
-      "33",
-      "20",
-      "21",
-      "05"
+      "24",
+      "30",
+      "05",
+      "37",
+      "15",
+      "06"
     ]
   },
   "suerte": {
@@ -230,11 +230,11 @@
       "16",
       "46"
     ],
-    "fecha_1800": "15-04",
+    "fecha_1800": "16-04",
     "la_suerte_1800": [
-      "21",
-      "00",
-      "79"
+      "12",
+      "84",
+      "52"
     ]
   },
   "lotedom": {
@@ -288,17 +288,17 @@
       "01",
       "27"
     ],
-    "fecha_tarde": "15-04",
+    "fecha_tarde": "16-04",
     "anguila_tarde": [
-      "29",
-      "66",
-      "56"
+      "90",
+      "75",
+      "43"
     ],
-    "fecha_cuarteta_tarde": "15-04",
+    "fecha_cuarteta_tarde": "16-04",
     "cuarteta_tarde": [
       "63",
-      "35",
-      "73",
+      "10",
+      "06",
       "99"
     ],
     "fecha_noche": "15-04",
@@ -322,11 +322,11 @@
       "63",
       "15"
     ],
-    "fecha_730": "15-04",
+    "fecha_730": "16-04",
     "king_730": [
-      "82",
-      "77",
-      "06"
+      "97",
+      "73",
+      "73"
     ],
     "fecha_pick3_dia": "16-04",
     "pick3_dia": [
@@ -354,31 +354,31 @@
       "98",
       "83"
     ],
-    "fecha_pick3_noche": "15-04",
+    "fecha_pick3_noche": "16-04",
     "pick3_noche": [
       "6",
-      "8",
-      "2"
+      "9",
+      "7"
     ],
-    "fecha_pick4_noche": "15-04",
+    "fecha_pick4_noche": "16-04",
     "pick4_noche": [
       "7",
+      "3",
       "7",
-      "0",
-      "6"
+      "3"
     ],
-    "fecha_philipsburg_noche": "15-04",
+    "fecha_philipsburg_noche": "16-04",
     "philipsburg_noche": [
-      "1436",
-      "3651",
-      "0780"
+      "1023",
+      "1666",
+      "9912"
     ],
-    "fecha_loto_pool_noche": "15-04",
+    "fecha_loto_pool_noche": "16-04",
     "loto_pool_noche": [
-      "44",
-      "46",
-      "87",
-      "72"
+      "40",
+      "80",
+      "73",
+      "54"
     ]
   },
   "new_york": {
