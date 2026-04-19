@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-04-19 21:52:38",
+  "actualizado": "2026-04-19 23:54:39",
   "nacional": {
     "fecha": "19-04",
     "fecha_juega_pega": "19-04",
     "fecha_gana_mas": "19-04",
-    "fecha_loteria_nacional": "18-04",
+    "fecha_loteria_nacional": "19-04",
     "juega_pega": [
       "24",
       "02",
@@ -18,15 +18,15 @@
       "46"
     ],
     "loteria_nacional": [
-      "67",
-      "99",
-      "99"
+      "74",
+      "94",
+      "53"
     ],
-    "fecha_billetes_domingo": "12-04",
+    "fecha_billetes_domingo": "19-04",
     "billetes_domingo": [
-      "328178",
-      "756852",
-      "955513"
+      "176774",
+      "121094",
+      "025853"
     ]
   },
   "leidsa": {
@@ -83,10 +83,10 @@
       "01",
       "14"
     ],
-    "fecha_super_pale": "18-04",
+    "fecha_super_pale": "19-04",
     "super_pale": [
-      "97",
-      "67"
+      "67",
+      "74"
     ]
   },
   "real": {
@@ -203,24 +203,24 @@
       "97",
       "64"
     ],
-    "fecha_quinielon_noche": "18-04",
+    "fecha_quinielon_noche": "19-04",
     "quinielon_noche": [
-      "52"
+      "94"
     ],
-    "fecha_noche": "18-04",
+    "fecha_noche": "19-04",
     "primera_noche": [
-      "22",
-      "41",
-      "55"
+      "21",
+      "83",
+      "65"
     ],
-    "fecha_loto5": "18-04",
+    "fecha_loto5": "19-04",
     "loto_5": [
+      "08",
+      "26",
+      "13",
       "09",
-      "19",
-      "14",
-      "16",
-      "10",
-      "10"
+      "29",
+      "02"
     ]
   },
   "suerte": {
@@ -230,11 +230,11 @@
       "28",
       "79"
     ],
-    "fecha_1800": "18-04",
+    "fecha_1800": "19-04",
     "la_suerte_1800": [
-      "68",
-      "48",
-      "68"
+      "80",
+      "15",
+      "82"
     ]
   },
   "lotedom": {
@@ -288,18 +288,18 @@
       "40",
       "78"
     ],
-    "fecha_tarde": "18-04",
+    "fecha_tarde": "19-04",
     "anguila_tarde": [
-      "77",
-      "68",
-      "50"
+      "96",
+      "10",
+      "46"
     ],
-    "fecha_cuarteta_tarde": "18-04",
+    "fecha_cuarteta_tarde": "19-04",
     "cuarteta_tarde": [
-      "22",
-      "78",
-      "86",
-      "42"
+      "77",
+      "99",
+      "85",
+      "80"
     ],
     "fecha_noche": "18-04",
     "anguila_noche": [
@@ -322,11 +322,11 @@
       "63",
       "07"
     ],
-    "fecha_730": "18-04",
+    "fecha_730": "19-04",
     "king_730": [
-      "46",
-      "93",
-      "62"
+      "19",
+      "50",
+      "69"
     ],
     "fecha_pick3_dia": "19-04",
     "pick3_dia": [
@@ -354,31 +354,31 @@
       "05",
       "18"
     ],
-    "fecha_pick3_noche": "18-04",
+    "fecha_pick3_noche": "19-04",
     "pick3_noche": [
-      "8",
       "4",
-      "6"
+      "1",
+      "9"
     ],
-    "fecha_pick4_noche": "18-04",
+    "fecha_pick4_noche": "19-04",
     "pick4_noche": [
-      "9",
-      "3",
+      "5",
+      "0",
       "6",
-      "2"
+      "9"
     ],
-    "fecha_philipsburg_noche": "18-04",
+    "fecha_philipsburg_noche": "19-04",
     "philipsburg_noche": [
-      "9660",
-      "1046",
-      "4953"
+      "0567",
+      "9603",
+      "5070"
     ],
-    "fecha_loto_pool_noche": "18-04",
+    "fecha_loto_pool_noche": "19-04",
     "loto_pool_noche": [
+      "95",
+      "09",
       "88",
-      "25",
-      "02",
-      "10"
+      "81"
     ]
   },
   "new_york": {
