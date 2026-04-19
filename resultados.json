@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-19 14:05:59",
+  "actualizado": "2026-04-19 17:55:33",
   "nacional": {
     "fecha": "18-04",
     "fecha_juega_pega": "18-04",
@@ -90,10 +90,10 @@
     ]
   },
   "real": {
-    "fecha": "18-04",
-    "fecha_tu_fecha_real": "18-04",
+    "fecha": "19-04",
+    "fecha_tu_fecha_real": "19-04",
     "tu_fecha_real": [
-      "02"
+      "26"
     ],
     "fecha_pega4_real": "31-03",
     "pega4_real": [
@@ -102,23 +102,23 @@
       "2",
       "0"
     ],
-    "fecha_loto_pool_real": "18-04",
+    "fecha_loto_pool_real": "19-04",
     "loto_pool_real": [
-      "69",
-      "75",
-      "38",
-      "73"
+      "25",
+      "43",
+      "32",
+      "65"
     ],
     "quiniela_real": [
-      "95",
-      "59",
-      "70"
+      "54",
+      "41",
+      "34"
     ],
-    "fecha_nueva_yol_real": "18-04",
+    "fecha_nueva_yol_real": "19-04",
     "nueva_yol_real": [
-      "66",
-      "70",
-      "72"
+      "58",
+      "35",
+      "42"
     ],
     "nueva_yol_color": "Verde",
     "fecha_loto_real": "17-04",
@@ -193,15 +193,15 @@
     ]
   },
   "primera": {
-    "fecha_quinielon_dia": "18-04",
+    "fecha_quinielon_dia": "19-04",
     "quinielon_dia": [
-      "43"
+      "95"
     ],
-    "fecha_dia": "18-04",
+    "fecha_dia": "19-04",
     "la_primera_dia": [
-      "56",
-      "44",
-      "34"
+      "13",
+      "97",
+      "64"
     ],
     "fecha_quinielon_noche": "18-04",
     "quinielon_noche": [
@@ -224,11 +224,11 @@
     ]
   },
   "suerte": {
-    "fecha_1230": "18-04",
+    "fecha_1230": "19-04",
     "la_suerte_1230": [
-      "42",
-      "87",
-      "35"
+      "23",
+      "28",
+      "79"
     ],
     "fecha_1800": "18-04",
     "la_suerte_1800": [
@@ -238,27 +238,27 @@
     ]
   },
   "lotedom": {
-    "fecha_quiniela": "18-04",
+    "fecha_quiniela": "19-04",
     "quiniela_lotedom": [
-      "28",
-      "68",
-      "74"
+      "40",
+      "95",
+      "35"
     ],
-    "fecha_quemaito": "18-04",
+    "fecha_quemaito": "19-04",
     "quemaito_mayor": [
-      "12"
+      "81"
     ],
-    "fecha_super_pale": "18-04",
+    "fecha_super_pale": "19-04",
     "super_pale": [
-      "28",
-      "12"
+      "40",
+      "81"
     ],
-    "fecha_agarra_4": "18-04",
+    "fecha_agarra_4": "19-04",
     "agarra_4": [
-      "28",
-      "68",
-      "74",
-      "12"
+      "40",
+      "95",
+      "35",
+      "81"
     ]
   },
   "anguila": {
@@ -275,18 +275,18 @@
       "86",
       "20"
     ],
-    "fecha_medio_dia": "18-04",
+    "fecha_medio_dia": "19-04",
     "anguila_medio_dia": [
-      "85",
-      "25",
-      "54"
+      "11",
+      "40",
+      "57"
     ],
-    "fecha_cuarteta_medio_dia": "18-04",
+    "fecha_cuarteta_medio_dia": "19-04",
     "cuarteta_medio_dia": [
-      "88",
-      "26",
-      "89",
-      "40"
+      "46",
+      "62",
+      "40",
+      "78"
     ],
     "fecha_tarde": "18-04",
     "anguila_tarde": [
@@ -316,11 +316,11 @@
     ]
   },
   "king_lottery": {
-    "fecha_1230": "18-04",
+    "fecha_1230": "19-04",
     "king_1230": [
-      "27",
-      "52",
-      "70"
+      "09",
+      "63",
+      "07"
     ],
     "fecha_730": "18-04",
     "king_730": [
@@ -328,31 +328,31 @@
       "93",
       "62"
     ],
-    "fecha_pick3_dia": "18-04",
+    "fecha_pick3_dia": "19-04",
     "pick3_dia": [
       "7",
-      "2",
+      "0",
+      "9"
+    ],
+    "fecha_pick4_dia": "19-04",
+    "pick4_dia": [
+      "6",
+      "3",
+      "0",
       "7"
     ],
-    "fecha_pick4_dia": "18-04",
-    "pick4_dia": [
-      "5",
-      "2",
-      "7",
-      "0"
-    ],
-    "fecha_philipsburg_medio_dia": "18-04",
+    "fecha_philipsburg_medio_dia": "19-04",
     "philipsburg_medio_dia": [
-      "0541",
-      "4623",
-      "1558"
+      "2368",
+      "0700",
+      "4533"
     ],
-    "fecha_loto_pool_medio_dia": "18-04",
+    "fecha_loto_pool_medio_dia": "19-04",
     "loto_pool_medio_dia": [
-      "78",
-      "69",
-      "97",
-      "85"
+      "89",
+      "74",
+      "05",
+      "18"
     ],
     "fecha_pick3_noche": "18-04",
     "pick3_noche": [
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "18-04",
+    "fecha_florida_dia": "19-04",
     "florida_dia": [
-      "60",
-      "78",
-      "26"
+      "91",
+      "97",
+      "80"
     ],
     "fecha_florida_noche": "18-04",
     "florida_noche": [
