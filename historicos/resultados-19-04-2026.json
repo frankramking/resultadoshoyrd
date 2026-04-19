@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-04-19 17:55:33",
+  "actualizado": "2026-04-19 19:56:07",
   "nacional": {
-    "fecha": "18-04",
-    "fecha_juega_pega": "18-04",
-    "fecha_gana_mas": "18-04",
+    "fecha": "19-04",
+    "fecha_juega_pega": "19-04",
+    "fecha_gana_mas": "19-04",
     "fecha_loteria_nacional": "18-04",
     "juega_pega": [
-      "09",
-      "02",
       "24",
-      "05",
-      "23"
+      "02",
+      "09",
+      "26",
+      "24"
     ],
     "gana_mas": [
-      "92",
-      "20",
-      "67"
+      "50",
+      "63",
+      "46"
     ],
     "loteria_nacional": [
       "67",
@@ -95,7 +95,7 @@
     "tu_fecha_real": [
       "26"
     ],
-    "fecha_pega4_real": "31-03",
+    "fecha_pega4_real": "31-03 No Sorteo Hoy",
     "pega4_real": [
       "3",
       "8",
@@ -130,10 +130,10 @@
       "30",
       "37"
     ],
-    "fecha_super_pale": "18-04",
+    "fecha_super_pale": "19-04",
     "super_pale": [
-      "95",
-      "92"
+      "54",
+      "50"
     ],
     "fecha_chance_real": "18-04",
     "chance_real": [
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "18-04",
+    "fecha_tarde": "19-04",
     "new_york_tarde": [
-      "85",
-      "74",
-      "03"
+      "45",
+      "10",
+      "33"
     ],
     "fecha_noche": "18-04",
     "new_york_noche": [
@@ -396,17 +396,17 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "18-04",
+    "fecha_numbers_medio_dia": "19-04",
     "numbers_medio_dia": [
-      "6",
-      "8",
+      "9",
+      "4",
       "5"
     ],
-    "fecha_win4_medio_dia": "18-04",
+    "fecha_win4_medio_dia": "19-04",
     "win4_medio_dia": [
-      "7",
-      "4",
+      "1",
       "0",
+      "3",
       "3"
     ],
     "fecha_numbers_noche": "18-04",
@@ -415,13 +415,13 @@
       "9",
       "0"
     ],
-    "fecha_take5_midday": "18-04",
+    "fecha_take5_midday": "19-04",
     "take5_midday": [
-      "07",
-      "17",
-      "30",
-      "34",
-      "38"
+      "08",
+      "22",
+      "24",
+      "31",
+      "32"
     ],
     "fecha_win4_noche": "18-04",
     "win4_noche": [
