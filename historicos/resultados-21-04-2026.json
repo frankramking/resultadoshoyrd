@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-21 21:08:05",
+  "actualizado": "2026-04-21 23:10:29",
   "nacional": {
     "fecha": "21-04",
     "fecha_juega_pega": "21-04",
@@ -203,24 +203,24 @@
       "83",
       "69"
     ],
-    "fecha_quinielon_noche": "20-04",
+    "fecha_quinielon_noche": "21-04",
     "quinielon_noche": [
-      "20"
+      "61"
     ],
-    "fecha_noche": "20-04",
+    "fecha_noche": "21-04",
     "primera_noche": [
-      "64",
-      "32",
-      "69"
+      "43",
+      "93",
+      "36"
     ],
-    "fecha_loto5": "20-04",
+    "fecha_loto5": "21-04",
     "loto_5": [
-      "14",
-      "27",
-      "17",
-      "26",
-      "02",
-      "05"
+      "15",
+      "22",
+      "28",
+      "20",
+      "38",
+      "09"
     ]
   },
   "suerte": {
@@ -230,11 +230,11 @@
       "18",
       "22"
     ],
-    "fecha_1800": "20-04",
+    "fecha_1800": "21-04",
     "la_suerte_1800": [
-      "52",
-      "75",
-      "55"
+      "68",
+      "31",
+      "51"
     ]
   },
   "lotedom": {
@@ -288,18 +288,18 @@
       "90",
       "46"
     ],
-    "fecha_tarde": "20-04",
+    "fecha_tarde": "21-04",
     "anguila_tarde": [
-      "23",
-      "39",
-      "01"
+      "00",
+      "07",
+      "33"
     ],
-    "fecha_cuarteta_tarde": "20-04",
+    "fecha_cuarteta_tarde": "21-04",
     "cuarteta_tarde": [
-      "24",
-      "10",
-      "30",
-      "46"
+      "21",
+      "05",
+      "76",
+      "64"
     ],
     "fecha_noche": "20-04",
     "anguila_noche": [
