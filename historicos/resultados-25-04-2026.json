@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-25 14:11:29",
+  "actualizado": "2026-04-25 16:07:07",
   "nacional": {
     "fecha": "24-04",
     "fecha_juega_pega": "24-04",
@@ -193,15 +193,15 @@
     ]
   },
   "primera": {
-    "fecha_quinielon_dia": "24-04",
+    "fecha_quinielon_dia": "25-04",
     "quinielon_dia": [
-      "68"
+      "85"
     ],
-    "fecha_dia": "24-04",
+    "fecha_dia": "25-04",
     "la_primera_dia": [
-      "15",
-      "08",
-      "72"
+      "06",
+      "11",
+      "55"
     ],
     "fecha_quinielon_noche": "24-04",
     "quinielon_noche": [
@@ -238,27 +238,27 @@
     ]
   },
   "lotedom": {
-    "fecha_quiniela": "24-04",
+    "fecha_quiniela": "25-04",
     "quiniela_lotedom": [
-      "84",
-      "41",
-      "11"
+      "91",
+      "48",
+      "88"
     ],
-    "fecha_quemaito": "24-04",
+    "fecha_quemaito": "25-04",
     "quemaito_mayor": [
-      "69"
+      "76"
     ],
-    "fecha_super_pale": "24-04",
+    "fecha_super_pale": "25-04",
     "super_pale": [
-      "84",
-      "69"
+      "91",
+      "76"
     ],
-    "fecha_agarra_4": "24-04",
+    "fecha_agarra_4": "25-04",
     "agarra_4": [
-      "84",
-      "41",
-      "11",
-      "69"
+      "91",
+      "48",
+      "88",
+      "76"
     ]
   },
   "anguila": {
