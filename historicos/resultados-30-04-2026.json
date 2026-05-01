@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-30 21:34:46",
+  "actualizado": "2026-05-01 00:12:36",
   "nacional": {
     "fecha": "30-04",
     "fecha_juega_pega": "30-04",
@@ -135,61 +135,61 @@
       "58",
       "02"
     ],
-    "fecha_chance_real": "29-04",
+    "fecha_chance_real": "30-04",
     "chance_real": [
-      "26",
-      "52",
-      "47",
-      "71",
-      "37"
+      "38",
+      "36",
+      "62",
+      "66",
+      "70"
     ],
-    "fecha_repartidera_real": "29-04",
+    "fecha_repartidera_real": "30-04",
     "repartidera_real": [
-      "94"
+      "38"
     ],
-    "fecha_loto_pool_noche": "29-04",
+    "fecha_loto_pool_noche": "30-04",
     "loto_pool_noche": [
-      "48",
-      "82",
-      "74",
-      "91"
+      "63",
+      "33",
+      "97",
+      "45"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "29-04",
+    "fecha_toca_3": "30-04",
     "toca_3": [
       "7",
-      "3",
-      "3"
+      "4",
+      "0"
     ],
-    "fecha": "29-04",
+    "fecha": "30-04",
     "quiniela_loteka": [
-      "81",
-      "11",
-      "72"
+      "06",
+      "13",
+      "15"
     ],
-    "fecha_mega_chance": "29-04",
+    "fecha_mega_chance": "30-04",
     "mega_chance": [
-      "15",
-      "23",
-      "39",
-      "54",
-      "88"
+      "63",
+      "17",
+      "08",
+      "17",
+      "00"
     ],
-    "fecha_mc_repartidera": "29-04",
+    "fecha_mc_repartidera": "30-04",
     "mc_repartidera": [
-      "72"
+      "55"
     ],
-    "fecha_megalotto": "27-04",
+    "fecha_megalotto": "30-04",
     "megalotto": [
+      "02",
       "05",
       "06",
-      "08",
-      "13",
-      "29",
-      "33",
       "07",
-      "06"
+      "14",
+      "37",
+      "05",
+      "05"
     ]
   },
   "primera": {
@@ -203,24 +203,24 @@
       "83",
       "18"
     ],
-    "fecha_quinielon_noche": "29-04",
+    "fecha_quinielon_noche": "30-04",
     "quinielon_noche": [
-      "32"
+      "71"
     ],
-    "fecha_noche": "29-04",
+    "fecha_noche": "30-04",
     "primera_noche": [
-      "68",
-      "22",
-      "72"
+      "11",
+      "54",
+      "87"
     ],
-    "fecha_loto5": "29-04",
+    "fecha_loto5": "30-04",
     "loto_5": [
-      "18",
-      "15",
-      "21",
-      "33",
       "17",
-      "09"
+      "10",
+      "36",
+      "32",
+      "29",
+      "02"
     ]
   },
   "suerte": {
@@ -230,11 +230,11 @@
       "02",
       "28"
     ],
-    "fecha_1800": "29-04",
+    "fecha_1800": "30-04",
     "la_suerte_1800": [
-      "72",
-      "65",
-      "33"
+      "04",
+      "40",
+      "25"
     ]
   },
   "lotedom": {
@@ -288,18 +288,18 @@
       "88",
       "64"
     ],
-    "fecha_tarde": "29-04",
+    "fecha_tarde": "30-04",
     "anguila_tarde": [
-      "44",
-      "06",
-      "11"
+      "37",
+      "00",
+      "02"
     ],
-    "fecha_cuarteta_tarde": "29-04",
+    "fecha_cuarteta_tarde": "30-04",
     "cuarteta_tarde": [
-      "83",
-      "84",
-      "31",
-      "93"
+      "73",
+      "37",
+      "69",
+      "13"
     ],
     "fecha_noche": "29-04",
     "anguila_noche": [
@@ -322,11 +322,11 @@
       "51",
       "26"
     ],
-    "fecha_730": "29-04",
+    "fecha_730": "30-04",
     "king_730": [
-      "26",
-      "05",
-      "99"
+      "99",
+      "29",
+      "80"
     ],
     "fecha_pick3_dia": "30-04",
     "pick3_dia": [
@@ -354,30 +354,30 @@
       "28",
       "94"
     ],
-    "fecha_pick3_noche": "29-04",
+    "fecha_pick3_noche": "30-04",
     "pick3_noche": [
-      "4",
-      "2",
-      "6"
-    ],
-    "fecha_pick4_noche": "29-04",
-    "pick4_noche": [
       "0",
-      "5",
       "9",
       "9"
     ],
-    "fecha_philipsburg_noche": "29-04",
-    "philipsburg_noche": [
-      "6564",
-      "5394",
-      "1403"
+    "fecha_pick4_noche": "30-04",
+    "pick4_noche": [
+      "2",
+      "9",
+      "8",
+      "0"
     ],
-    "fecha_loto_pool_noche": "29-04",
+    "fecha_philipsburg_noche": "30-04",
+    "philipsburg_noche": [
+      "3196",
+      "9245",
+      "7193"
+    ],
+    "fecha_loto_pool_noche": "30-04",
     "loto_pool_noche": [
+      "83",
+      "62",
       "23",
-      "74",
-      "67",
       "53"
     ]
   },
