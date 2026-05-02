@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-02 14:13:00",
+  "actualizado": "2026-05-02 16:32:29",
   "nacional": {
     "fecha": "01-05",
     "fecha_juega_pega": "01-05",
@@ -193,15 +193,15 @@
     ]
   },
   "primera": {
-    "fecha_quinielon_dia": "01-05",
+    "fecha_quinielon_dia": "02-05",
     "quinielon_dia": [
-      "17"
+      "63"
     ],
-    "fecha_dia": "01-05",
+    "fecha_dia": "02-05",
     "la_primera_dia": [
-      "00",
-      "81",
-      "47"
+      "39",
+      "21",
+      "98"
     ],
     "fecha_quinielon_noche": "01-05",
     "quinielon_noche": [
@@ -238,27 +238,27 @@
     ]
   },
   "lotedom": {
-    "fecha_quiniela": "01-05",
+    "fecha_quiniela": "02-05",
     "quiniela_lotedom": [
-      "37",
-      "59",
-      "86"
+      "32",
+      "66",
+      "08"
     ],
-    "fecha_quemaito": "01-05",
+    "fecha_quemaito": "02-05",
     "quemaito_mayor": [
-      "90"
+      "53"
     ],
-    "fecha_super_pale": "01-05",
+    "fecha_super_pale": "02-05",
     "super_pale": [
-      "37",
-      "90"
+      "32",
+      "53"
     ],
-    "fecha_agarra_4": "01-05",
+    "fecha_agarra_4": "02-05",
     "agarra_4": [
-      "37",
-      "59",
-      "86",
-      "90"
+      "32",
+      "66",
+      "08",
+      "53"
     ]
   },
   "anguila": {
@@ -328,11 +328,11 @@
       "29",
       "80"
     ],
-    "fecha_pick3_dia": "30-04",
+    "fecha_pick3_dia": "02-05",
     "pick3_dia": [
-      "3",
-      "1",
-      "2"
+      "9",
+      "9",
+      "0"
     ],
     "fecha_pick4_dia": "30-04",
     "pick4_dia": [
@@ -347,12 +347,12 @@
       "1397",
       "1768"
     ],
-    "fecha_loto_pool_medio_dia": "30-04",
+    "fecha_loto_pool_medio_dia": "02-05",
     "loto_pool_medio_dia": [
+      "15",
       "39",
-      "38",
-      "28",
-      "94"
+      "01",
+      "28"
     ],
     "fecha_pick3_noche": "30-04",
     "pick3_noche": [
