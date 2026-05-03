@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-05-03 16:33:02",
+  "actualizado": "2026-05-03 19:42:33",
   "nacional": {
-    "fecha": "02-05",
-    "fecha_juega_pega": "02-05",
-    "fecha_gana_mas": "02-05",
+    "fecha": "03-05",
+    "fecha_juega_pega": "03-05",
+    "fecha_gana_mas": "03-05",
     "fecha_loteria_nacional": "02-05",
     "juega_pega": [
-      "22",
-      "17",
-      "02",
+      "25",
+      "09",
+      "24",
       "16",
-      "10"
+      "15"
     ],
     "gana_mas": [
-      "20",
-      "97",
-      "20"
+      "36",
+      "59",
+      "21"
     ],
     "loteria_nacional": [
       "88",
@@ -90,10 +90,10 @@
     ]
   },
   "real": {
-    "fecha": "02-05",
-    "fecha_tu_fecha_real": "02-05",
+    "fecha": "03-05",
+    "fecha_tu_fecha_real": "03-05",
     "tu_fecha_real": [
-      "03"
+      "01"
     ],
     "fecha_pega4_real": "31-03",
     "pega4_real": [
@@ -102,23 +102,23 @@
       "2",
       "0"
     ],
-    "fecha_loto_pool_real": "02-05",
+    "fecha_loto_pool_real": "03-05",
     "loto_pool_real": [
-      "94",
-      "80",
-      "93",
-      "56"
+      "63",
+      "01",
+      "83",
+      "40"
     ],
     "quiniela_real": [
-      "48",
-      "79",
-      "62"
+      "35",
+      "08",
+      "27"
     ],
-    "fecha_nueva_yol_real": "02-05",
+    "fecha_nueva_yol_real": "03-05",
     "nueva_yol_real": [
-      "90",
-      "17",
-      "93"
+      "11",
+      "18",
+      "34"
     ],
     "nueva_yol_color": "Amarilla",
     "fecha_loto_real": "01-05",
@@ -130,10 +130,10 @@
       "23",
       "26"
     ],
-    "fecha_super_pale": "02-05",
+    "fecha_super_pale": "03-05",
     "super_pale": [
-      "48",
-      "20"
+      "35",
+      "36"
     ],
     "fecha_chance_real": "02-05",
     "chance_real": [
@@ -224,11 +224,11 @@
     ]
   },
   "suerte": {
-    "fecha_1230": "02-05",
+    "fecha_1230": "03-05",
     "la_suerte_1230": [
-      "37",
-      "57",
-      "72"
+      "82",
+      "54",
+      "32"
     ],
     "fecha_1800": "02-05",
     "la_suerte_1800": [
@@ -275,18 +275,18 @@
       "76",
       "34"
     ],
-    "fecha_medio_dia": "02-05",
+    "fecha_medio_dia": "03-05",
     "anguila_medio_dia": [
-      "65",
-      "76",
-      "64"
-    ],
-    "fecha_cuarteta_medio_dia": "02-05",
-    "cuarteta_medio_dia": [
-      "42",
+      "44",
       "62",
-      "34",
-      "97"
+      "89"
+    ],
+    "fecha_cuarteta_medio_dia": "03-05",
+    "cuarteta_medio_dia": [
+      "49",
+      "76",
+      "72",
+      "36"
     ],
     "fecha_tarde": "02-05",
     "anguila_tarde": [
@@ -341,11 +341,11 @@
       "9",
       "0"
     ],
-    "fecha_philipsburg_medio_dia": "02-05",
+    "fecha_philipsburg_medio_dia": "03-05",
     "philipsburg_medio_dia": [
-      "0739",
-      "5877",
-      "8544"
+      "3054",
+      "7223",
+      "3411"
     ],
     "fecha_loto_pool_medio_dia": "03-05",
     "loto_pool_medio_dia": [
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "02-05",
+    "fecha_tarde": "03-05",
     "new_york_tarde": [
-      "66",
-      "17",
-      "79"
+      "58",
+      "57",
+      "51"
     ],
     "fecha_noche": "02-05",
     "new_york_noche": [
@@ -396,18 +396,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "02-05",
+    "fecha_numbers_medio_dia": "03-05",
     "numbers_medio_dia": [
-      "0",
-      "6",
-      "6"
+      "4",
+      "5",
+      "8"
     ],
-    "fecha_win4_medio_dia": "02-05",
+    "fecha_win4_medio_dia": "03-05",
     "win4_medio_dia": [
-      "1",
+      "5",
       "7",
-      "7",
-      "9"
+      "5",
+      "1"
     ],
     "fecha_numbers_noche": "02-05",
     "numbers_noche": [
@@ -415,13 +415,13 @@
       "8",
       "6"
     ],
-    "fecha_take5_midday": "02-05",
+    "fecha_take5_midday": "03-05",
     "take5_midday": [
-      "07",
-      "17",
-      "23",
-      "32",
-      "38"
+      "03",
+      "09",
+      "14",
+      "15",
+      "17"
     ],
     "fecha_win4_noche": "02-05",
     "win4_noche": [
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "02-05",
+    "fecha_florida_dia": "03-05",
     "florida_dia": [
-      "36",
-      "17",
-      "06"
+      "34",
+      "02",
+      "26"
     ],
     "fecha_florida_noche": "02-05",
     "florida_noche": [
