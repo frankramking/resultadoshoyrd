@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-03 14:15:09",
+  "actualizado": "2026-05-03 16:33:02",
   "nacional": {
     "fecha": "02-05",
     "fecha_juega_pega": "02-05",
@@ -193,15 +193,15 @@
     ]
   },
   "primera": {
-    "fecha_quinielon_dia": "02-05",
+    "fecha_quinielon_dia": "03-05",
     "quinielon_dia": [
-      "63"
+      "81"
     ],
-    "fecha_dia": "02-05",
+    "fecha_dia": "03-05",
     "la_primera_dia": [
-      "39",
-      "21",
-      "98"
+      "24",
+      "37",
+      "89"
     ],
     "fecha_quinielon_noche": "02-05",
     "quinielon_noche": [
@@ -238,27 +238,27 @@
     ]
   },
   "lotedom": {
-    "fecha_quiniela": "02-05",
+    "fecha_quiniela": "03-05",
     "quiniela_lotedom": [
-      "32",
-      "66",
-      "08"
-    ],
-    "fecha_quemaito": "02-05",
-    "quemaito_mayor": [
-      "53"
-    ],
-    "fecha_super_pale": "02-05",
-    "super_pale": [
-      "32",
-      "53"
-    ],
-    "fecha_agarra_4": "02-05",
-    "agarra_4": [
-      "32",
-      "66",
       "08",
-      "53"
+      "57",
+      "60"
+    ],
+    "fecha_quemaito": "03-05",
+    "quemaito_mayor": [
+      "07"
+    ],
+    "fecha_super_pale": "03-05",
+    "super_pale": [
+      "08",
+      "07"
+    ],
+    "fecha_agarra_4": "03-05",
+    "agarra_4": [
+      "08",
+      "57",
+      "60",
+      "07"
     ]
   },
   "anguila": {
@@ -316,11 +316,11 @@
     ]
   },
   "king_lottery": {
-    "fecha_1230": "02-05",
+    "fecha_1230": "03-05",
     "king_1230": [
-      "90",
-      "76",
-      "95"
+      "86",
+      "11",
+      "90"
     ],
     "fecha_730": "02-05",
     "king_730": [
@@ -328,18 +328,18 @@
       "31",
       "78"
     ],
-    "fecha_pick3_dia": "02-05",
+    "fecha_pick3_dia": "03-05",
     "pick3_dia": [
-      "9",
+      "4",
+      "8",
+      "6"
+    ],
+    "fecha_pick4_dia": "03-05",
+    "pick4_dia": [
+      "1",
+      "1",
       "9",
       "0"
-    ],
-    "fecha_pick4_dia": "02-05",
-    "pick4_dia": [
-      "7",
-      "6",
-      "9",
-      "5"
     ],
     "fecha_philipsburg_medio_dia": "02-05",
     "philipsburg_medio_dia": [
@@ -347,12 +347,12 @@
       "5877",
       "8544"
     ],
-    "fecha_loto_pool_medio_dia": "02-05",
+    "fecha_loto_pool_medio_dia": "03-05",
     "loto_pool_medio_dia": [
-      "15",
-      "39",
-      "01",
-      "28"
+      "65",
+      "29",
+      "54",
+      "58"
     ],
     "fecha_pick3_noche": "02-05",
     "pick3_noche": [
