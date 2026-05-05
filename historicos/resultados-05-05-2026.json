@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-05-05 16:29:51",
+  "actualizado": "2026-05-05 20:15:29",
   "nacional": {
-    "fecha": "04-05",
-    "fecha_juega_pega": "04-05",
-    "fecha_gana_mas": "04-05",
+    "fecha": "05-05",
+    "fecha_juega_pega": "05-05",
+    "fecha_gana_mas": "05-05",
     "fecha_loteria_nacional": "04-05",
     "juega_pega": [
-      "04",
-      "20",
-      "10",
-      "11",
-      "22"
+      "18",
+      "15",
+      "19",
+      "15",
+      "07"
     ],
     "gana_mas": [
-      "76",
-      "62",
-      "19"
+      "68",
+      "50",
+      "93"
     ],
     "loteria_nacional": [
       "23",
@@ -90,35 +90,35 @@
     ]
   },
   "real": {
-    "fecha": "04-05",
-    "fecha_tu_fecha_real": "04-05",
+    "fecha": "05-05",
+    "fecha_tu_fecha_real": "05-05",
     "tu_fecha_real": [
-      "25"
+      "03"
     ],
-    "fecha_pega4_real": "31-03",
+    "fecha_pega4_real": "31-03 No Sorteo Hoy",
     "pega4_real": [
       "3",
       "8",
       "2",
       "0"
     ],
-    "fecha_loto_pool_real": "04-05",
+    "fecha_loto_pool_real": "05-05",
     "loto_pool_real": [
-      "95",
-      "17",
-      "43",
-      "46"
+      "90",
+      "72",
+      "51",
+      "14"
     ],
     "quiniela_real": [
-      "52",
-      "19",
-      "05"
+      "51",
+      "77",
+      "56"
     ],
-    "fecha_nueva_yol_real": "04-05",
+    "fecha_nueva_yol_real": "05-05",
     "nueva_yol_real": [
-      "06",
-      "31",
-      "81"
+      "39",
+      "38",
+      "14"
     ],
     "nueva_yol_color": "Amarilla",
     "fecha_loto_real": "01-05",
@@ -130,10 +130,10 @@
       "23",
       "26"
     ],
-    "fecha_super_pale": "04-05",
+    "fecha_super_pale": "05-05",
     "super_pale": [
-      "52",
-      "76"
+      "51",
+      "68"
     ],
     "fecha_chance_real": "04-05",
     "chance_real": [
@@ -224,11 +224,11 @@
     ]
   },
   "suerte": {
-    "fecha_1230": "04-05",
+    "fecha_1230": "05-05",
     "la_suerte_1230": [
-      "96",
-      "48",
-      "30"
+      "69",
+      "76",
+      "97"
     ],
     "fecha_1800": "04-05",
     "la_suerte_1800": [
@@ -275,18 +275,18 @@
       "65",
       "59"
     ],
-    "fecha_medio_dia": "04-05",
+    "fecha_medio_dia": "05-05",
     "anguila_medio_dia": [
-      "60",
-      "22",
-      "87"
+      "11",
+      "84",
+      "32"
     ],
-    "fecha_cuarteta_medio_dia": "04-05",
+    "fecha_cuarteta_medio_dia": "05-05",
     "cuarteta_medio_dia": [
-      "64",
-      "64",
-      "88",
-      "50"
+      "60",
+      "92",
+      "49",
+      "99"
     ],
     "fecha_tarde": "04-05",
     "anguila_tarde": [
@@ -316,11 +316,11 @@
     ]
   },
   "king_lottery": {
-    "fecha_1230": "04-05",
+    "fecha_1230": "05-05",
     "king_1230": [
-      "68",
-      "50",
-      "75"
+      "03",
+      "85",
+      "94"
     ],
     "fecha_730": "04-05",
     "king_730": [
@@ -328,31 +328,31 @@
       "74",
       "52"
     ],
-    "fecha_pick3_dia": "04-05",
+    "fecha_pick3_dia": "05-05",
     "pick3_dia": [
-      "3",
       "6",
-      "8"
-    ],
-    "fecha_pick4_dia": "04-05",
-    "pick4_dia": [
-      "5",
       "0",
-      "7",
-      "5"
+      "3"
     ],
-    "fecha_philipsburg_medio_dia": "04-05",
+    "fecha_pick4_dia": "05-05",
+    "pick4_dia": [
+      "8",
+      "5",
+      "9",
+      "4"
+    ],
+    "fecha_philipsburg_medio_dia": "05-05",
     "philipsburg_medio_dia": [
-      "7186",
-      "7231",
-      "2743"
+      "9786",
+      "4778",
+      "3967"
     ],
-    "fecha_loto_pool_medio_dia": "04-05",
+    "fecha_loto_pool_medio_dia": "05-05",
     "loto_pool_medio_dia": [
-      "30",
-      "24",
-      "29",
-      "71"
+      "35",
+      "04",
+      "59",
+      "58"
     ],
     "fecha_pick3_noche": "04-05",
     "pick3_noche": [
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "04-05",
+    "fecha_tarde": "05-05",
     "new_york_tarde": [
-      "94",
-      "53",
-      "28"
+      "31",
+      "47",
+      "34"
     ],
     "fecha_noche": "04-05",
     "new_york_noche": [
@@ -396,18 +396,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "04-05",
+    "fecha_numbers_medio_dia": "05-05",
     "numbers_medio_dia": [
-      "2",
-      "9",
-      "4"
-    ],
-    "fecha_win4_medio_dia": "04-05",
-    "win4_medio_dia": [
       "5",
       "3",
-      "2",
-      "8"
+      "1"
+    ],
+    "fecha_win4_medio_dia": "05-05",
+    "win4_medio_dia": [
+      "4",
+      "7",
+      "3",
+      "4"
     ],
     "fecha_numbers_noche": "04-05",
     "numbers_noche": [
@@ -415,13 +415,13 @@
       "9",
       "2"
     ],
-    "fecha_take5_midday": "04-05",
+    "fecha_take5_midday": "05-05",
     "take5_midday": [
-      "01",
       "08",
-      "13",
       "16",
-      "32"
+      "25",
+      "32",
+      "37"
     ],
     "fecha_win4_noche": "04-05",
     "win4_noche": [
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "04-05",
+    "fecha_florida_dia": "05-05",
     "florida_dia": [
-      "23",
-      "41",
-      "03"
+      "88",
+      "22",
+      "36"
     ],
     "fecha_florida_noche": "04-05",
     "florida_noche": [
