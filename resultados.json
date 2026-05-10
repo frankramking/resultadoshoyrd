@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-05-10 17:38:20",
+  "actualizado": "2026-05-10 22:31:50",
   "nacional": {
-    "fecha": "09-05",
-    "fecha_juega_pega": "09-05",
-    "fecha_gana_mas": "09-05",
-    "fecha_loteria_nacional": "09-05",
+    "fecha": "10-05",
+    "fecha_juega_pega": "10-05",
+    "fecha_gana_mas": "10-05",
+    "fecha_loteria_nacional": "10-05",
     "juega_pega": [
-      "21",
-      "25",
-      "12",
-      "26",
-      "11"
+      "15",
+      "13",
+      "05",
+      "19",
+      "14"
     ],
     "gana_mas": [
-      "73",
-      "51",
-      "86"
+      "70",
+      "81",
+      "90"
     ],
     "loteria_nacional": [
-      "84",
-      "37",
-      "17"
+      "38",
+      "10",
+      "27"
     ],
     "fecha_billetes_domingo": "03-05",
     "billetes_domingo": [
@@ -30,47 +30,47 @@
     ]
   },
   "leidsa": {
-    "fecha": "09-05",
+    "fecha": "10-05",
     "pega_3_mas": [
-      "06",
-      "16",
-      "13"
+      "20",
+      "43",
+      "32"
     ],
     "quiniela_leidsa": [
-      "63",
-      "29",
-      "08"
+      "41",
+      "59",
+      "36"
     ],
-    "fecha_loto_pool": "09-05",
+    "fecha_loto_pool": "10-05",
     "loto_pool": [
-      "01",
-      "05",
-      "24",
-      "25",
-      "30"
-    ],
-    "fecha_super_kino": "09-05",
-    "super_kino_tv": [
       "03",
       "07",
       "08",
       "14",
-      "15",
+      "16"
+    ],
+    "fecha_super_kino": "10-05",
+    "super_kino_tv": [
+      "04",
+      "06",
+      "17",
       "21",
-      "33",
-      "34",
+      "23",
+      "29",
+      "32",
+      "35",
+      "39",
+      "40",
       "43",
-      "49",
-      "51",
-      "63",
-      "64",
-      "66",
-      "68",
-      "71",
-      "74",
-      "76",
-      "78",
-      "80"
+      "45",
+      "47",
+      "48",
+      "52",
+      "65",
+      "69",
+      "72",
+      "73",
+      "79"
     ],
     "fecha_loto_super_loto": "09-05",
     "loto_super_loto_mas": [
@@ -83,10 +83,10 @@
       "01",
       "08"
     ],
-    "fecha_super_pale": "09-05",
+    "fecha_super_pale": "10-05",
     "super_pale": [
-      "63",
-      "84"
+      "41",
+      "38"
     ]
   },
   "real": {
@@ -130,10 +130,10 @@
       "26",
       "32"
     ],
-    "fecha_super_pale": "09-05",
+    "fecha_super_pale": "10-05",
     "super_pale": [
-      "30",
-      "73"
+      "95",
+      "70"
     ],
     "fecha_chance_real": "09-05",
     "chance_real": [
@@ -230,11 +230,11 @@
       "18",
       "09"
     ],
-    "fecha_1800": "09-05",
+    "fecha_1800": "10-05",
     "la_suerte_1800": [
-      "72",
-      "58",
-      "78"
+      "05",
+      "42",
+      "22"
     ]
   },
   "lotedom": {
@@ -288,18 +288,18 @@
       "63",
       "08"
     ],
-    "fecha_tarde": "09-05",
+    "fecha_tarde": "10-05",
     "anguila_tarde": [
-      "33",
-      "55",
-      "10"
+      "13",
+      "19",
+      "33"
     ],
-    "fecha_cuarteta_tarde": "09-05",
+    "fecha_cuarteta_tarde": "10-05",
     "cuarteta_tarde": [
-      "80",
-      "33",
-      "23",
-      "05"
+      "14",
+      "63",
+      "46",
+      "11"
     ],
     "fecha_noche": "09-05",
     "anguila_noche": [
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "09-05",
+    "fecha_tarde": "10-05",
     "new_york_tarde": [
-      "32",
-      "48",
-      "88"
+      "11",
+      "51",
+      "63"
     ],
     "fecha_noche": "09-05",
     "new_york_noche": [
@@ -396,18 +396,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "09-05",
+    "fecha_numbers_medio_dia": "10-05",
     "numbers_medio_dia": [
-      "7",
-      "3",
-      "2"
+      "2",
+      "1",
+      "1"
     ],
-    "fecha_win4_medio_dia": "09-05",
+    "fecha_win4_medio_dia": "10-05",
     "win4_medio_dia": [
-      "4",
-      "8",
-      "8",
-      "8"
+      "5",
+      "1",
+      "6",
+      "3"
     ],
     "fecha_numbers_noche": "09-05",
     "numbers_noche": [
@@ -415,13 +415,13 @@
       "9",
       "6"
     ],
-    "fecha_take5_midday": "09-05",
+    "fecha_take5_midday": "10-05",
     "take5_midday": [
-      "13",
-      "20",
+      "05",
+      "17",
+      "25",
       "29",
-      "30",
-      "33"
+      "36"
     ],
     "fecha_win4_noche": "09-05",
     "win4_noche": [
