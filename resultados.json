@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-05-12 16:34:58",
+  "actualizado": "2026-05-12 21:07:55",
   "nacional": {
-    "fecha": "11-05",
-    "fecha_juega_pega": "11-05",
-    "fecha_gana_mas": "11-05",
+    "fecha": "12-05",
+    "fecha_juega_pega": "12-05",
+    "fecha_gana_mas": "12-05",
     "fecha_loteria_nacional": "11-05",
     "juega_pega": [
-      "01",
-      "05",
-      "23",
-      "25",
-      "06"
+      "18",
+      "16",
+      "02",
+      "16",
+      "19"
     ],
     "gana_mas": [
-      "31",
-      "87",
-      "69"
+      "48",
+      "10",
+      "95"
     ],
     "loteria_nacional": [
       "02",
@@ -90,10 +90,10 @@
     ]
   },
   "real": {
-    "fecha": "11-05",
-    "fecha_tu_fecha_real": "11-05",
+    "fecha": "12-05",
+    "fecha_tu_fecha_real": "12-05",
     "tu_fecha_real": [
-      "22"
+      "24"
     ],
     "fecha_pega4_real": "31-03",
     "pega4_real": [
@@ -102,25 +102,25 @@
       "2",
       "0"
     ],
-    "fecha_loto_pool_real": "11-05",
+    "fecha_loto_pool_real": "12-05",
     "loto_pool_real": [
-      "71",
-      "17",
-      "88",
-      "33"
+      "66",
+      "77",
+      "64",
+      "86"
     ],
     "quiniela_real": [
-      "91",
-      "93",
-      "99"
+      "71",
+      "27",
+      "28"
     ],
-    "fecha_nueva_yol_real": "11-05",
+    "fecha_nueva_yol_real": "12-05",
     "nueva_yol_real": [
-      "85",
-      "43",
-      "08"
+      "07",
+      "28",
+      "03"
     ],
-    "nueva_yol_color": "Roja",
+    "nueva_yol_color": "Verde",
     "fecha_loto_real": "08-05",
     "loto_real": [
       "18",
@@ -130,10 +130,10 @@
       "26",
       "32"
     ],
-    "fecha_super_pale": "11-05",
+    "fecha_super_pale": "12-05",
     "super_pale": [
-      "91",
-      "31"
+      "71",
+      "48"
     ],
     "fecha_chance_real": "11-05",
     "chance_real": [
@@ -275,18 +275,18 @@
       "64",
       "91"
     ],
-    "fecha_medio_dia": "11-05",
+    "fecha_medio_dia": "12-05",
     "anguila_medio_dia": [
-      "97",
-      "10",
-      "89"
+      "55",
+      "55",
+      "90"
     ],
-    "fecha_cuarteta_medio_dia": "11-05",
+    "fecha_cuarteta_medio_dia": "12-05",
     "cuarteta_medio_dia": [
-      "66",
-      "97",
-      "40",
-      "18"
+      "68",
+      "07",
+      "41",
+      "75"
     ],
     "fecha_tarde": "11-05",
     "anguila_tarde": [
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "11-05",
+    "fecha_tarde": "12-05",
     "new_york_tarde": [
-      "33",
-      "90",
-      "76"
+      "96",
+      "57",
+      "57"
     ],
     "fecha_noche": "11-05",
     "new_york_noche": [
@@ -396,18 +396,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "11-05",
+    "fecha_numbers_medio_dia": "12-05",
     "numbers_medio_dia": [
-      "5",
-      "3",
-      "3"
-    ],
-    "fecha_win4_medio_dia": "11-05",
-    "win4_medio_dia": [
-      "9",
       "0",
-      "7",
+      "9",
       "6"
+    ],
+    "fecha_win4_medio_dia": "12-05",
+    "win4_medio_dia": [
+      "5",
+      "7",
+      "5",
+      "7"
     ],
     "fecha_numbers_noche": "11-05",
     "numbers_noche": [
@@ -415,13 +415,13 @@
       "9",
       "9"
     ],
-    "fecha_take5_midday": "11-05",
+    "fecha_take5_midday": "12-05",
     "take5_midday": [
-      "03",
-      "09",
+      "06",
+      "20",
       "21",
-      "27",
-      "38"
+      "30",
+      "35"
     ],
     "fecha_win4_noche": "11-05",
     "win4_noche": [
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "11-05",
+    "fecha_florida_dia": "12-05",
     "florida_dia": [
-      "71",
-      "65",
-      "33"
+      "49",
+      "22",
+      "50"
     ],
     "fecha_florida_noche": "11-05",
     "florida_noche": [
