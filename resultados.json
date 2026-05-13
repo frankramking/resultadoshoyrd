@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-05-13 17:32:44",
+  "actualizado": "2026-05-13 19:20:07",
   "nacional": {
-    "fecha": "12-05",
-    "fecha_juega_pega": "12-05",
-    "fecha_gana_mas": "12-05",
+    "fecha": "13-05",
+    "fecha_juega_pega": "13-05",
+    "fecha_gana_mas": "13-05",
     "fecha_loteria_nacional": "12-05",
     "juega_pega": [
+      "15",
       "18",
-      "16",
-      "02",
-      "16",
-      "19"
+      "17",
+      "22",
+      "16"
     ],
     "gana_mas": [
-      "48",
-      "10",
-      "95"
+      "90",
+      "78",
+      "80"
     ],
     "loteria_nacional": [
       "88",
@@ -130,10 +130,10 @@
       "36",
       "37"
     ],
-    "fecha_super_pale": "12-05",
+    "fecha_super_pale": "13-05",
     "super_pale": [
-      "71",
-      "48"
+      "95",
+      "90"
     ],
     "fecha_chance_real": "12-05",
     "chance_real": [
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "12-05",
+    "fecha_tarde": "13-05",
     "new_york_tarde": [
-      "96",
-      "57",
-      "57"
+      "03",
+      "08",
+      "84"
     ],
     "fecha_noche": "12-05",
     "new_york_noche": [
@@ -396,18 +396,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "12-05",
+    "fecha_numbers_medio_dia": "13-05",
     "numbers_medio_dia": [
       "0",
-      "9",
-      "6"
+      "0",
+      "3"
     ],
-    "fecha_win4_medio_dia": "12-05",
+    "fecha_win4_medio_dia": "13-05",
     "win4_medio_dia": [
-      "5",
-      "7",
-      "5",
-      "7"
+      "0",
+      "8",
+      "8",
+      "4"
     ],
     "fecha_numbers_noche": "12-05",
     "numbers_noche": [
@@ -415,13 +415,13 @@
       "4",
       "6"
     ],
-    "fecha_take5_midday": "12-05",
+    "fecha_take5_midday": "13-05",
     "take5_midday": [
-      "06",
-      "20",
-      "21",
-      "30",
-      "35"
+      "09",
+      "10",
+      "19",
+      "26",
+      "27"
     ],
     "fecha_win4_noche": "12-05",
     "win4_noche": [
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "12-05",
+    "fecha_florida_dia": "13-05",
     "florida_dia": [
-      "49",
-      "22",
-      "50"
+      "89",
+      "05",
+      "12"
     ],
     "fecha_florida_noche": "12-05",
     "florida_noche": [
