@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-13 22:09:29",
+  "actualizado": "2026-05-13 23:19:36",
   "nacional": {
     "fecha": "13-05",
     "fecha_juega_pega": "13-05",
@@ -203,24 +203,24 @@
       "33",
       "33"
     ],
-    "fecha_quinielon_noche": "12-05",
+    "fecha_quinielon_noche": "13-05",
     "quinielon_noche": [
-      "73"
+      "25"
     ],
-    "fecha_noche": "12-05",
+    "fecha_noche": "13-05",
     "primera_noche": [
-      "64",
-      "36",
-      "82"
+      "38",
+      "67",
+      "41"
     ],
-    "fecha_loto5": "12-05",
+    "fecha_loto5": "13-05",
     "loto_5": [
-      "10",
+      "34",
       "29",
-      "11",
-      "01",
-      "05",
-      "02"
+      "38",
+      "24",
+      "21",
+      "06"
     ]
   },
   "suerte": {
