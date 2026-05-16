@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-16 19:41:59",
+  "actualizado": "2026-05-16 22:02:31",
   "nacional": {
     "fecha": "16-05",
     "fecha_juega_pega": "16-05",
@@ -288,19 +288,14 @@
       "94",
       "68"
     ],
-    "fecha_tarde": "15-05",
+    "fecha_tarde": "16-05",
     "anguila_tarde": [
-      "23",
-      "14",
-      "37"
+      "96",
+      "24",
+      "19"
     ],
-    "fecha_cuarteta_tarde": "15-05",
-    "cuarteta_tarde": [
-      "19",
-      "09",
-      "70",
-      "11"
-    ],
+    "fecha_cuarteta_tarde": "",
+    "cuarteta_tarde": [],
     "fecha_noche": "15-05",
     "anguila_noche": [
       "94",
