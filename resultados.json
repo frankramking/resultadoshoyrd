@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-16 17:33:37",
+  "actualizado": "2026-05-16 18:33:13",
   "nacional": {
     "fecha": "15-05",
     "fecha_juega_pega": "15-05",
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "15-05",
+    "fecha_tarde": "16-05",
     "new_york_tarde": [
-      "05",
-      "36",
-      "16"
+      "91",
+      "60",
+      "50"
     ],
     "fecha_noche": "15-05",
     "new_york_noche": [
@@ -396,18 +396,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "15-05",
+    "fecha_numbers_medio_dia": "16-05",
     "numbers_medio_dia": [
-      "9",
-      "0",
-      "5"
-    ],
-    "fecha_win4_medio_dia": "15-05",
-    "win4_medio_dia": [
       "3",
+      "9",
+      "1"
+    ],
+    "fecha_win4_medio_dia": "16-05",
+    "win4_medio_dia": [
       "6",
-      "1",
-      "6"
+      "0",
+      "5",
+      "0"
     ],
     "fecha_numbers_noche": "15-05",
     "numbers_noche": [
@@ -415,13 +415,13 @@
       "6",
       "9"
     ],
-    "fecha_take5_midday": "15-05",
+    "fecha_take5_midday": "16-05",
     "take5_midday": [
-      "11",
-      "18",
-      "30",
-      "33",
-      "38"
+      "04",
+      "24",
+      "25",
+      "29",
+      "33"
     ],
     "fecha_win4_noche": "15-05",
     "win4_noche": [
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "15-05",
+    "fecha_florida_dia": "16-05",
     "florida_dia": [
-      "00",
-      "43",
-      "08"
+      "46",
+      "83",
+      "81"
     ],
     "fecha_florida_noche": "15-05",
     "florida_noche": [
