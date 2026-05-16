@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-05-16 18:33:13",
+  "actualizado": "2026-05-16 19:41:59",
   "nacional": {
-    "fecha": "15-05",
-    "fecha_juega_pega": "15-05",
-    "fecha_gana_mas": "15-05",
+    "fecha": "16-05",
+    "fecha_juega_pega": "16-05",
+    "fecha_gana_mas": "16-05",
     "fecha_loteria_nacional": "15-05",
     "juega_pega": [
-      "14",
-      "25",
-      "02",
-      "15",
-      "11"
+      "20",
+      "10",
+      "09",
+      "06",
+      "16"
     ],
     "gana_mas": [
-      "40",
-      "14",
-      "75"
+      "16",
+      "76",
+      "71"
     ],
     "loteria_nacional": [
       "30",
@@ -130,10 +130,10 @@
       "32",
       "37"
     ],
-    "fecha_super_pale": "15-05",
+    "fecha_super_pale": "16-05",
     "super_pale": [
-      "11",
-      "40"
+      "69",
+      "16"
     ],
     "fecha_chance_real": "15-05",
     "chance_real": [
