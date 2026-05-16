@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-16 16:35:48",
+  "actualizado": "2026-05-16 17:33:37",
   "nacional": {
     "fecha": "15-05",
     "fecha_juega_pega": "15-05",
@@ -90,10 +90,10 @@
     ]
   },
   "real": {
-    "fecha": "15-05",
-    "fecha_tu_fecha_real": "15-05",
+    "fecha": "16-05",
+    "fecha_tu_fecha_real": "16-05",
     "tu_fecha_real": [
-      "28"
+      "19"
     ],
     "fecha_pega4_real": "31-03",
     "pega4_real": [
@@ -102,23 +102,23 @@
       "2",
       "0"
     ],
-    "fecha_loto_pool_real": "15-05",
+    "fecha_loto_pool_real": "16-05",
     "loto_pool_real": [
-      "15",
-      "78",
-      "55",
-      "57"
+      "65",
+      "45",
+      "06",
+      "44"
     ],
     "quiniela_real": [
-      "11",
-      "37",
-      "23"
+      "69",
+      "72",
+      "71"
     ],
-    "fecha_nueva_yol_real": "15-05",
+    "fecha_nueva_yol_real": "16-05",
     "nueva_yol_real": [
-      "71",
-      "06",
-      "55"
+      "36",
+      "17",
+      "50"
     ],
     "nueva_yol_color": "Verde",
     "fecha_loto_real": "15-05",
@@ -275,18 +275,18 @@
       "11",
       "03"
     ],
-    "fecha_medio_dia": "15-05",
+    "fecha_medio_dia": "16-05",
     "anguila_medio_dia": [
-      "29",
-      "59",
-      "17"
+      "18",
+      "71",
+      "82"
     ],
-    "fecha_cuarteta_medio_dia": "15-05",
+    "fecha_cuarteta_medio_dia": "16-05",
     "cuarteta_medio_dia": [
-      "13",
-      "15",
-      "05",
-      "51"
+      "43",
+      "10",
+      "94",
+      "68"
     ],
     "fecha_tarde": "15-05",
     "anguila_tarde": [
