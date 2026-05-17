@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-17 01:30:56",
+  "actualizado": "2026-05-17 05:28:02",
   "nacional": {
     "fecha": "16-05",
     "fecha_juega_pega": "16-05",
@@ -388,11 +388,11 @@
       "60",
       "50"
     ],
-    "fecha_noche": "15-05",
+    "fecha_noche": "16-05",
     "new_york_noche": [
-      "69",
-      "41",
-      "58"
+      "81",
+      "29",
+      "30"
     ]
   },
   "new_york_completo": {
@@ -409,11 +409,11 @@
       "5",
       "0"
     ],
-    "fecha_numbers_noche": "15-05",
+    "fecha_numbers_noche": "16-05",
     "numbers_noche": [
-      "1",
-      "6",
-      "9"
+      "7",
+      "8",
+      "1"
     ],
     "fecha_take5_midday": "16-05",
     "take5_midday": [
@@ -423,20 +423,20 @@
       "29",
       "33"
     ],
-    "fecha_win4_noche": "15-05",
+    "fecha_win4_noche": "16-05",
     "win4_noche": [
-      "4",
-      "1",
-      "5",
-      "8"
+      "2",
+      "9",
+      "3",
+      "0"
     ],
-    "fecha_take5_noche": "15-05",
+    "fecha_take5_noche": "16-05",
     "take5_noche": [
-      "17",
-      "24",
-      "25",
-      "29",
-      "31"
+      "03",
+      "12",
+      "22",
+      "28",
+      "33"
     ],
     "fecha_new_york_lotto": "16-05",
     "new_york_lotto": [
@@ -456,11 +456,11 @@
       "83",
       "81"
     ],
-    "fecha_florida_noche": "15-05",
+    "fecha_florida_noche": "16-05",
     "florida_noche": [
-      "82",
-      "80",
-      "72"
+      "23",
+      "50",
+      "66"
     ],
     "fecha_mega_millions": "15-05",
     "mega_millions": [
@@ -471,24 +471,24 @@
       "61",
       "03"
     ],
-    "fecha_powerball": "13-05",
+    "fecha_powerball": "16-05",
     "powerball": [
-      "22",
-      "31",
-      "52",
-      "56",
-      "67",
-      "15"
-    ],
-    "powerplay": "2X",
-    "fecha_powerball_double_play": "13-05",
-    "powerball_double_play": [
       "08",
-      "13",
-      "39",
-      "63",
-      "66",
-      "02"
+      "37",
+      "40",
+      "44",
+      "65",
+      "18"
+    ],
+    "powerplay": "3X",
+    "fecha_powerball_double_play": "16-05",
+    "powerball_double_play": [
+      "11",
+      "21",
+      "27",
+      "41",
+      "59",
+      "18"
     ],
     "fecha_cash_4_life": "21-02",
     "cash_4_life": [
