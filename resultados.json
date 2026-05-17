@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-17 17:13:01",
+  "actualizado": "2026-05-17 18:09:09",
   "nacional": {
     "fecha": "16-05",
     "fecha_juega_pega": "16-05",
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "16-05",
+    "fecha_florida_dia": "17-05",
     "florida_dia": [
-      "46",
-      "83",
-      "81"
+      "38",
+      "75",
+      "65"
     ],
     "fecha_florida_noche": "16-05",
     "florida_noche": [
