@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-17 14:09:49",
+  "actualizado": "2026-05-17 16:12:36",
   "nacional": {
     "fecha": "16-05",
     "fecha_juega_pega": "16-05",
@@ -193,15 +193,15 @@
     ]
   },
   "primera": {
-    "fecha_quinielon_dia": "16-05",
+    "fecha_quinielon_dia": "17-05",
     "quinielon_dia": [
-      "52"
+      "17"
     ],
-    "fecha_dia": "16-05",
+    "fecha_dia": "17-05",
     "la_primera_dia": [
-      "94",
-      "41",
-      "05"
+      "01",
+      "64",
+      "15"
     ],
     "fecha_quinielon_noche": "16-05",
     "quinielon_noche": [
@@ -238,27 +238,27 @@
     ]
   },
   "lotedom": {
-    "fecha_quiniela": "16-05",
+    "fecha_quiniela": "17-05",
     "quiniela_lotedom": [
-      "75",
-      "00",
-      "15"
+      "55",
+      "64",
+      "36"
     ],
-    "fecha_quemaito": "16-05",
+    "fecha_quemaito": "17-05",
     "quemaito_mayor": [
-      "78"
+      "84"
     ],
-    "fecha_super_pale": "16-05",
+    "fecha_super_pale": "17-05",
     "super_pale": [
-      "75",
-      "78"
+      "55",
+      "84"
     ],
-    "fecha_agarra_4": "16-05",
+    "fecha_agarra_4": "17-05",
     "agarra_4": [
-      "75",
-      "00",
-      "15",
-      "78"
+      "55",
+      "64",
+      "36",
+      "84"
     ]
   },
   "anguila": {
