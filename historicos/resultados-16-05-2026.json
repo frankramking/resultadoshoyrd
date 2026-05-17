@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-05-16 23:44:31",
+  "actualizado": "2026-05-17 01:30:56",
   "nacional": {
     "fecha": "16-05",
     "fecha_juega_pega": "16-05",
     "fecha_gana_mas": "16-05",
-    "fecha_loteria_nacional": "15-05",
+    "fecha_loteria_nacional": "16-05",
     "juega_pega": [
       "20",
       "10",
@@ -18,9 +18,9 @@
       "71"
     ],
     "loteria_nacional": [
-      "30",
-      "40",
-      "40"
+      "49",
+      "47",
+      "89"
     ],
     "fecha_billetes_domingo": "03-05",
     "billetes_domingo": [
@@ -30,63 +30,63 @@
     ]
   },
   "leidsa": {
-    "fecha": "15-05",
+    "fecha": "16-05",
     "pega_3_mas": [
-      "02",
-      "35",
+      "33",
+      "29",
       "42"
     ],
     "quiniela_leidsa": [
-      "85",
-      "00",
-      "96"
+      "41",
+      "57",
+      "97"
     ],
-    "fecha_loto_pool": "15-05",
+    "fecha_loto_pool": "16-05",
     "loto_pool": [
       "13",
-      "15",
-      "17",
-      "21",
-      "24"
+      "16",
+      "22",
+      "26",
+      "27"
     ],
-    "fecha_super_kino": "15-05",
+    "fecha_super_kino": "16-05",
     "super_kino_tv": [
-      "01",
-      "03",
+      "02",
       "05",
-      "12",
-      "18",
+      "09",
+      "29",
+      "31",
+      "33",
       "36",
-      "37",
-      "43",
-      "44",
-      "50",
-      "53",
-      "56",
-      "57",
+      "40",
+      "41",
+      "42",
+      "45",
+      "47",
+      "49",
+      "54",
+      "55",
       "60",
-      "63",
-      "66",
       "70",
       "71",
-      "76",
+      "75",
       "79"
     ],
-    "fecha_loto_super_loto": "13-05",
+    "fecha_loto_super_loto": "16-05",
     "loto_super_loto_mas": [
-      "04",
-      "10",
-      "25",
-      "26",
-      "33",
-      "34",
-      "10",
-      "02"
+      "03",
+      "14",
+      "18",
+      "20",
+      "29",
+      "32",
+      "09",
+      "12"
     ],
-    "fecha_super_pale": "15-05",
+    "fecha_super_pale": "16-05",
     "super_pale": [
-      "85",
-      "30"
+      "41",
+      "49"
     ]
   },
   "real": {
@@ -135,50 +135,50 @@
       "69",
       "16"
     ],
-    "fecha_chance_real": "15-05",
+    "fecha_chance_real": "16-05",
     "chance_real": [
-      "74",
-      "31",
-      "28",
-      "81",
-      "09"
+      "65",
+      "80",
+      "39",
+      "04",
+      "93"
     ],
-    "fecha_repartidera_real": "15-05",
+    "fecha_repartidera_real": "16-05",
     "repartidera_real": [
-      "85"
+      "77"
     ],
-    "fecha_loto_pool_noche": "15-05",
+    "fecha_loto_pool_noche": "16-05",
     "loto_pool_noche": [
-      "51",
-      "57",
-      "78",
-      "09"
+      "06",
+      "11",
+      "40",
+      "47"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "15-05",
+    "fecha_toca_3": "16-05",
     "toca_3": [
-      "6",
-      "3",
-      "0"
+      "5",
+      "7",
+      "1"
     ],
-    "fecha": "15-05",
+    "fecha": "16-05",
     "quiniela_loteka": [
-      "56",
-      "49",
-      "70"
+      "41",
+      "75",
+      "89"
     ],
-    "fecha_mega_chance": "15-05",
+    "fecha_mega_chance": "16-05",
     "mega_chance": [
-      "74",
+      "65",
+      "92",
+      "34",
       "24",
-      "36",
-      "96",
-      "13"
+      "62"
     ],
-    "fecha_mc_repartidera": "15-05",
+    "fecha_mc_repartidera": "16-05",
     "mc_repartidera": [
-      "27"
+      "31"
     ],
     "fecha_megalotto": "14-05",
     "megalotto": [
@@ -301,18 +301,18 @@
       "15",
       "47"
     ],
-    "fecha_noche": "15-05",
+    "fecha_noche": "16-05",
     "anguila_noche": [
-      "94",
-      "78",
-      "01"
+      "06",
+      "59",
+      "03"
     ],
-    "fecha_cuarteta_noche": "15-05",
+    "fecha_cuarteta_noche": "16-05",
     "cuarteta_noche": [
-      "28",
-      "28",
-      "22",
-      "65"
+      "37",
+      "04",
+      "78",
+      "39"
     ]
   },
   "king_lottery": {
@@ -438,15 +438,15 @@
       "29",
       "31"
     ],
-    "fecha_new_york_lotto": "13-05",
+    "fecha_new_york_lotto": "16-05",
     "new_york_lotto": [
-      "44",
-      "40",
-      "38",
-      "10",
-      "56",
-      "20",
-      "41"
+      "27",
+      "37",
+      "11",
+      "24",
+      "32",
+      "09",
+      "57"
     ]
   },
   "americanas": {
