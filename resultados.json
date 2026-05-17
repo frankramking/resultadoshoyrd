@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-17 22:07:38",
+  "actualizado": "2026-05-17 23:08:40",
   "nacional": {
     "fecha": "17-05",
     "fecha_juega_pega": "17-05",
@@ -20,7 +20,7 @@
     "loteria_nacional": [
       "78",
       "65",
-      "03"
+      "97"
     ],
     "fecha_billetes_domingo": "03-05",
     "billetes_domingo": [
@@ -203,24 +203,24 @@
       "64",
       "15"
     ],
-    "fecha_quinielon_noche": "16-05",
+    "fecha_quinielon_noche": "17-05",
     "quinielon_noche": [
-      "68"
+      "52"
     ],
-    "fecha_noche": "16-05",
+    "fecha_noche": "17-05",
     "primera_noche": [
-      "53",
-      "83",
-      "31"
+      "02",
+      "64",
+      "24"
     ],
-    "fecha_loto5": "16-05",
+    "fecha_loto5": "17-05",
     "loto_5": [
-      "37",
-      "10",
-      "25",
+      "07",
       "26",
-      "32",
-      "02"
+      "04",
+      "12",
+      "27",
+      "10"
     ]
   },
   "suerte": {
