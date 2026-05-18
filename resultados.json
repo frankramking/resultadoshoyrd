@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-17 23:08:40",
+  "actualizado": "2026-05-18 00:08:32",
   "nacional": {
     "fecha": "17-05",
     "fecha_juega_pega": "17-05",
@@ -135,50 +135,50 @@
       "42",
       "77"
     ],
-    "fecha_chance_real": "16-05",
+    "fecha_chance_real": "17-05",
     "chance_real": [
-      "65",
-      "80",
-      "39",
-      "04",
-      "93"
+      "85",
+      "21",
+      "27",
+      "05",
+      "06"
     ],
-    "fecha_repartidera_real": "16-05",
+    "fecha_repartidera_real": "17-05",
     "repartidera_real": [
-      "77"
+      "90"
     ],
-    "fecha_loto_pool_noche": "16-05",
+    "fecha_loto_pool_noche": "17-05",
     "loto_pool_noche": [
-      "06",
-      "11",
-      "40",
-      "47"
+      "04",
+      "59",
+      "05",
+      "16"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "16-05",
+    "fecha_toca_3": "17-05",
     "toca_3": [
-      "5",
-      "7",
-      "1"
+      "1",
+      "0",
+      "5"
     ],
-    "fecha": "16-05",
+    "fecha": "17-05",
     "quiniela_loteka": [
-      "41",
-      "75",
-      "89"
+      "27",
+      "21",
+      "06"
     ],
-    "fecha_mega_chance": "16-05",
+    "fecha_mega_chance": "17-05",
     "mega_chance": [
-      "65",
-      "92",
-      "34",
-      "24",
-      "62"
+      "38",
+      "81",
+      "28",
+      "32",
+      "54"
     ],
-    "fecha_mc_repartidera": "16-05",
+    "fecha_mc_repartidera": "17-05",
     "mc_repartidera": [
-      "31"
+      "29"
     ],
     "fecha_megalotto": "14-05",
     "megalotto": [
@@ -322,11 +322,11 @@
       "81",
       "27"
     ],
-    "fecha_730": "16-05",
+    "fecha_730": "17-05",
     "king_730": [
-      "74",
-      "92",
-      "60"
+      "37",
+      "87",
+      "58"
     ],
     "fecha_pick3_dia": "17-05",
     "pick3_dia": [
@@ -354,31 +354,31 @@
       "57",
       "05"
     ],
-    "fecha_pick3_noche": "16-05",
+    "fecha_pick3_noche": "17-05",
     "pick3_noche": [
-      "2",
-      "7",
-      "4"
-    ],
-    "fecha_pick4_noche": "16-05",
-    "pick4_noche": [
-      "9",
-      "2",
       "6",
-      "0"
+      "3",
+      "7"
     ],
-    "fecha_philipsburg_noche": "16-05",
+    "fecha_pick4_noche": "17-05",
+    "pick4_noche": [
+      "8",
+      "7",
+      "5",
+      "8"
+    ],
+    "fecha_philipsburg_noche": "17-05",
     "philipsburg_noche": [
-      "7412",
-      "8890",
-      "8225"
+      "7201",
+      "0090",
+      "2292"
     ],
-    "fecha_loto_pool_noche": "16-05",
+    "fecha_loto_pool_noche": "17-05",
     "loto_pool_noche": [
-      "00",
-      "63",
-      "45",
-      "95"
+      "62",
+      "93",
+      "71",
+      "98"
     ]
   },
   "new_york": {
