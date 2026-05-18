@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-18 00:08:32",
+  "actualizado": "2026-05-18 04:38:27",
   "nacional": {
     "fecha": "17-05",
     "fecha_juega_pega": "17-05",
@@ -95,7 +95,7 @@
     "tu_fecha_real": [
       "13"
     ],
-    "fecha_pega4_real": "31-03 No Sorteo Hoy",
+    "fecha_pega4_real": "31-03",
     "pega4_real": [
       "3",
       "8",
@@ -301,18 +301,18 @@
       "60",
       "80"
     ],
-    "fecha_noche": "16-05",
+    "fecha_noche": "17-05",
     "anguila_noche": [
-      "06",
-      "59",
-      "03"
+      "20",
+      "02",
+      "91"
     ],
-    "fecha_cuarteta_noche": "16-05",
+    "fecha_cuarteta_noche": "17-05",
     "cuarteta_noche": [
-      "37",
-      "04",
-      "78",
-      "39"
+      "23",
+      "23",
+      "74",
+      "92"
     ]
   },
   "king_lottery": {
@@ -388,11 +388,11 @@
       "27",
       "46"
     ],
-    "fecha_noche": "16-05",
+    "fecha_noche": "17-05",
     "new_york_noche": [
       "81",
-      "29",
-      "30"
+      "40",
+      "92"
     ]
   },
   "new_york_completo": {
@@ -409,9 +409,9 @@
       "4",
       "6"
     ],
-    "fecha_numbers_noche": "16-05",
+    "fecha_numbers_noche": "17-05",
     "numbers_noche": [
-      "7",
+      "9",
       "8",
       "1"
     ],
@@ -423,20 +423,20 @@
       "22",
       "24"
     ],
-    "fecha_win4_noche": "16-05",
+    "fecha_win4_noche": "17-05",
     "win4_noche": [
-      "2",
+      "4",
+      "0",
       "9",
-      "3",
-      "0"
+      "2"
     ],
-    "fecha_take5_noche": "16-05",
+    "fecha_take5_noche": "17-05",
     "take5_noche": [
-      "03",
-      "12",
-      "22",
-      "28",
-      "33"
+      "06",
+      "08",
+      "10",
+      "11",
+      "12"
     ],
     "fecha_new_york_lotto": "16-05",
     "new_york_lotto": [
@@ -456,11 +456,11 @@
       "75",
       "65"
     ],
-    "fecha_florida_noche": "16-05",
+    "fecha_florida_noche": "17-05",
     "florida_noche": [
-      "23",
-      "50",
-      "66"
+      "62",
+      "09",
+      "98"
     ],
     "fecha_mega_millions": "15-05",
     "mega_millions": [
