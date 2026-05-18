@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-18 19:17:03",
+  "actualizado": "2026-05-18 22:55:02",
   "nacional": {
     "fecha": "18-05",
     "fecha_juega_pega": "18-05",
@@ -230,11 +230,11 @@
       "70",
       "06"
     ],
-    "fecha_1800": "17-05",
+    "fecha_1800": "18-05",
     "la_suerte_1800": [
-      "28",
-      "28",
-      "68"
+      "99",
+      "31",
+      "76"
     ]
   },
   "lotedom": {
@@ -288,18 +288,18 @@
       "69",
       "87"
     ],
-    "fecha_tarde": "17-05",
+    "fecha_tarde": "18-05",
     "anguila_tarde": [
-      "39",
-      "96",
-      "38"
-    ],
-    "fecha_cuarteta_tarde": "17-05",
-    "cuarteta_tarde": [
       "99",
-      "90",
-      "60",
-      "80"
+      "55",
+      "47"
+    ],
+    "fecha_cuarteta_tarde": "18-05",
+    "cuarteta_tarde": [
+      "27",
+      "72",
+      "05",
+      "68"
     ],
     "fecha_noche": "17-05",
     "anguila_noche": [
