@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-19 02:27:07",
+  "actualizado": "2026-05-19 06:31:54",
   "nacional": {
     "fecha": "18-05",
     "fecha_juega_pega": "18-05",
@@ -95,7 +95,7 @@
     "tu_fecha_real": [
       "09"
     ],
-    "fecha_pega4_real": "31-03 No Sorteo Hoy",
+    "fecha_pega4_real": "31-03",
     "pega4_real": [
       "3",
       "8",
@@ -388,11 +388,11 @@
       "95",
       "54"
     ],
-    "fecha_noche": "17-05",
+    "fecha_noche": "18-05",
     "new_york_noche": [
-      "81",
-      "40",
-      "92"
+      "05",
+      "96",
+      "39"
     ]
   },
   "new_york_completo": {
@@ -409,11 +409,11 @@
       "5",
       "4"
     ],
-    "fecha_numbers_noche": "17-05",
+    "fecha_numbers_noche": "18-05",
     "numbers_noche": [
-      "9",
-      "8",
-      "1"
+      "6",
+      "0",
+      "5"
     ],
     "fecha_take5_midday": "18-05",
     "take5_midday": [
@@ -423,20 +423,20 @@
       "25",
       "31"
     ],
-    "fecha_win4_noche": "17-05",
+    "fecha_win4_noche": "18-05",
     "win4_noche": [
-      "4",
-      "0",
       "9",
-      "2"
+      "6",
+      "3",
+      "9"
     ],
-    "fecha_take5_noche": "17-05",
+    "fecha_take5_noche": "18-05",
     "take5_noche": [
-      "06",
-      "08",
-      "10",
-      "11",
-      "12"
+      "01",
+      "09",
+      "25",
+      "27",
+      "38"
     ],
     "fecha_new_york_lotto": "16-05",
     "new_york_lotto": [
@@ -471,24 +471,24 @@
       "61",
       "03"
     ],
-    "fecha_powerball": "16-05",
+    "fecha_powerball": "18-05",
     "powerball": [
-      "08",
-      "37",
-      "40",
-      "44",
+      "04",
+      "13",
+      "34",
+      "61",
       "65",
-      "18"
+      "12"
     ],
-    "powerplay": "3X",
-    "fecha_powerball_double_play": "16-05",
+    "powerplay": "2X",
+    "fecha_powerball_double_play": "18-05",
     "powerball_double_play": [
-      "11",
-      "21",
-      "27",
-      "41",
-      "59",
-      "18"
+      "03",
+      "13",
+      "18",
+      "40",
+      "63",
+      "23"
     ],
     "fecha_cash_4_life": "21-02",
     "cash_4_life": [
