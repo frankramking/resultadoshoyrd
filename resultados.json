@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-05-19 18:24:31",
+  "actualizado": "2026-05-19 20:09:43",
   "nacional": {
-    "fecha": "18-05",
-    "fecha_juega_pega": "18-05",
-    "fecha_gana_mas": "18-05",
+    "fecha": "19-05",
+    "fecha_juega_pega": "19-05",
+    "fecha_gana_mas": "19-05",
     "fecha_loteria_nacional": "18-05",
     "juega_pega": [
-      "09",
-      "03",
-      "03",
-      "19",
-      "05"
+      "20",
+      "15",
+      "04",
+      "13",
+      "16"
     ],
     "gana_mas": [
-      "92",
-      "66",
-      "64"
+      "95",
+      "79",
+      "99"
     ],
     "loteria_nacional": [
       "88",
@@ -130,10 +130,10 @@
       "32",
       "37"
     ],
-    "fecha_super_pale": "18-05",
+    "fecha_super_pale": "19-05",
     "super_pale": [
-      "15",
-      "92"
+      "52",
+      "95"
     ],
     "fecha_chance_real": "18-05",
     "chance_real": [
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "18-05",
+    "fecha_tarde": "19-05",
     "new_york_tarde": [
-      "80",
-      "95",
-      "54"
+      "93",
+      "27",
+      "09"
     ],
     "fecha_noche": "18-05",
     "new_york_noche": [
@@ -396,18 +396,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "18-05",
+    "fecha_numbers_medio_dia": "19-05",
     "numbers_medio_dia": [
-      "4",
-      "8",
-      "0"
-    ],
-    "fecha_win4_medio_dia": "18-05",
-    "win4_medio_dia": [
+      "2",
       "9",
-      "5",
-      "5",
-      "4"
+      "3"
+    ],
+    "fecha_win4_medio_dia": "19-05",
+    "win4_medio_dia": [
+      "2",
+      "7",
+      "0",
+      "9"
     ],
     "fecha_numbers_noche": "18-05",
     "numbers_noche": [
@@ -415,13 +415,13 @@
       "0",
       "5"
     ],
-    "fecha_take5_midday": "18-05",
+    "fecha_take5_midday": "19-05",
     "take5_midday": [
-      "13",
+      "07",
+      "14",
       "16",
       "21",
-      "25",
-      "31"
+      "27"
     ],
     "fecha_win4_noche": "18-05",
     "win4_noche": [
