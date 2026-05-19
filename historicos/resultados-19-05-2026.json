@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-19 16:38:29",
+  "actualizado": "2026-05-19 18:24:31",
   "nacional": {
     "fecha": "18-05",
     "fecha_juega_pega": "18-05",
@@ -90,10 +90,10 @@
     ]
   },
   "real": {
-    "fecha": "18-05",
-    "fecha_tu_fecha_real": "18-05",
+    "fecha": "19-05",
+    "fecha_tu_fecha_real": "19-05",
     "tu_fecha_real": [
-      "09"
+      "19"
     ],
     "fecha_pega4_real": "31-03",
     "pega4_real": [
@@ -102,25 +102,25 @@
       "2",
       "0"
     ],
-    "fecha_loto_pool_real": "18-05",
+    "fecha_loto_pool_real": "19-05",
     "loto_pool_real": [
-      "05",
-      "12",
-      "56",
-      "01"
+      "54",
+      "90",
+      "06",
+      "37"
     ],
     "quiniela_real": [
-      "15",
-      "28",
-      "71"
+      "52",
+      "44",
+      "65"
     ],
-    "fecha_nueva_yol_real": "18-05",
+    "fecha_nueva_yol_real": "19-05",
     "nueva_yol_real": [
-      "13",
-      "32",
-      "25"
+      "08",
+      "00",
+      "01"
     ],
-    "nueva_yol_color": "Verde",
+    "nueva_yol_color": "Amarilla",
     "fecha_loto_real": "15-05",
     "loto_real": [
       "09",
@@ -275,18 +275,18 @@
       "54",
       "14"
     ],
-    "fecha_medio_dia": "18-05",
+    "fecha_medio_dia": "19-05",
     "anguila_medio_dia": [
-      "27",
-      "28",
-      "73"
+      "34",
+      "33",
+      "60"
     ],
-    "fecha_cuarteta_medio_dia": "18-05",
+    "fecha_cuarteta_medio_dia": "19-05",
     "cuarteta_medio_dia": [
-      "86",
-      "83",
-      "69",
-      "87"
+      "38",
+      "72",
+      "15",
+      "67"
     ],
     "fecha_tarde": "18-05",
     "anguila_tarde": [
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "18-05",
+    "fecha_florida_dia": "19-05",
     "florida_dia": [
-      "06",
-      "87",
-      "36"
+      "28",
+      "98",
+      "58"
     ],
     "fecha_florida_noche": "18-05",
     "florida_noche": [
