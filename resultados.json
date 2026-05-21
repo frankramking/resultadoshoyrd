@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-21 16:27:47",
+  "actualizado": "2026-05-21 18:17:41",
   "nacional": {
     "fecha": "20-05",
     "fecha_juega_pega": "20-05",
@@ -90,10 +90,10 @@
     ]
   },
   "real": {
-    "fecha": "20-05",
-    "fecha_tu_fecha_real": "20-05",
+    "fecha": "21-05",
+    "fecha_tu_fecha_real": "21-05",
     "tu_fecha_real": [
-      "15"
+      "13"
     ],
     "fecha_pega4_real": "31-03",
     "pega4_real": [
@@ -102,25 +102,25 @@
       "2",
       "0"
     ],
-    "fecha_loto_pool_real": "20-05",
+    "fecha_loto_pool_real": "21-05",
     "loto_pool_real": [
-      "44",
-      "14",
-      "99",
-      "61"
+      "16",
+      "79",
+      "34",
+      "20"
     ],
     "quiniela_real": [
-      "36",
-      "50",
-      "07"
+      "91",
+      "84",
+      "69"
     ],
-    "fecha_nueva_yol_real": "20-05",
+    "fecha_nueva_yol_real": "21-05",
     "nueva_yol_real": [
-      "68",
-      "96",
-      "41"
+      "02",
+      "76",
+      "72"
     ],
-    "nueva_yol_color": "Roja",
+    "nueva_yol_color": "Amarilla",
     "fecha_loto_real": "19-05",
     "loto_real": [
       "01",
@@ -224,11 +224,11 @@
     ]
   },
   "suerte": {
-    "fecha_1230": "20-05",
+    "fecha_1230": "21-05",
     "la_suerte_1230": [
-      "12",
-      "84",
-      "83"
+      "57",
+      "77",
+      "16"
     ],
     "fecha_1800": "20-05",
     "la_suerte_1800": [
@@ -275,18 +275,18 @@
       "19",
       "64"
     ],
-    "fecha_medio_dia": "20-05",
+    "fecha_medio_dia": "21-05",
     "anguila_medio_dia": [
-      "44",
-      "68",
-      "95"
+      "01",
+      "91",
+      "81"
     ],
-    "fecha_cuarteta_medio_dia": "20-05",
+    "fecha_cuarteta_medio_dia": "21-05",
     "cuarteta_medio_dia": [
-      "43",
-      "79",
-      "74",
-      "29"
+      "67",
+      "64",
+      "03",
+      "33"
     ],
     "fecha_tarde": "20-05",
     "anguila_tarde": [
@@ -316,11 +316,11 @@
     ]
   },
   "king_lottery": {
-    "fecha_1230": "20-05",
+    "fecha_1230": "21-05",
     "king_1230": [
-      "31",
+      "32",
       "53",
-      "22"
+      "04"
     ],
     "fecha_730": "20-05",
     "king_730": [
@@ -328,31 +328,31 @@
       "77",
       "79"
     ],
-    "fecha_pick3_dia": "20-05",
+    "fecha_pick3_dia": "21-05",
     "pick3_dia": [
-      "4",
+      "8",
       "3",
-      "1"
+      "2"
     ],
-    "fecha_pick4_dia": "20-05",
+    "fecha_pick4_dia": "21-05",
     "pick4_dia": [
       "5",
       "3",
-      "2",
-      "2"
+      "0",
+      "4"
     ],
-    "fecha_philipsburg_medio_dia": "20-05",
+    "fecha_philipsburg_medio_dia": "21-05",
     "philipsburg_medio_dia": [
-      "5226",
-      "3707",
-      "0926"
+      "6961",
+      "1141",
+      "0225"
     ],
-    "fecha_loto_pool_medio_dia": "20-05",
+    "fecha_loto_pool_medio_dia": "21-05",
     "loto_pool_medio_dia": [
-      "89",
-      "85",
-      "54",
-      "68"
+      "10",
+      "28",
+      "80",
+      "23"
     ],
     "fecha_pick3_noche": "20-05",
     "pick3_noche": [
@@ -450,11 +450,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "20-05",
+    "fecha_florida_dia": "21-05",
     "florida_dia": [
-      "57",
-      "68",
-      "51"
+      "32",
+      "96",
+      "95"
     ],
     "fecha_florida_noche": "20-05",
     "florida_noche": [
