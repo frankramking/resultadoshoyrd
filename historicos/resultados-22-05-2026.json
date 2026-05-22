@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-22 20:00:52",
+  "actualizado": "2026-05-22 22:16:33",
   "nacional": {
     "fecha": "22-05",
     "fecha_juega_pega": "22-05",
@@ -230,10 +230,10 @@
       "76",
       "16"
     ],
-    "fecha_1800": "21-05",
+    "fecha_1800": "22-05",
     "la_suerte_1800": [
-      "71",
-      "30",
+      "43",
+      "19",
       "62"
     ]
   },
@@ -288,18 +288,18 @@
       "00",
       "90"
     ],
-    "fecha_tarde": "21-05",
+    "fecha_tarde": "22-05",
     "anguila_tarde": [
-      "00",
-      "81",
-      "33"
+      "30",
+      "27",
+      "05"
     ],
-    "fecha_cuarteta_tarde": "21-05",
+    "fecha_cuarteta_tarde": "22-05",
     "cuarteta_tarde": [
-      "51",
-      "68",
-      "91",
-      "34"
+      "58",
+      "95",
+      "86",
+      "04"
     ],
     "fecha_noche": "21-05",
     "anguila_noche": [
