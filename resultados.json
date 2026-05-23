@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-23 14:15:24",
+  "actualizado": "2026-05-23 16:32:04",
   "nacional": {
     "fecha": "22-05",
     "fecha_juega_pega": "22-05",
@@ -193,15 +193,15 @@
     ]
   },
   "primera": {
-    "fecha_quinielon_dia": "22-05",
+    "fecha_quinielon_dia": "23-05",
     "quinielon_dia": [
-      "84"
+      "64"
     ],
-    "fecha_dia": "22-05",
+    "fecha_dia": "23-05",
     "la_primera_dia": [
-      "26",
-      "99",
-      "55"
+      "50",
+      "35",
+      "27"
     ],
     "fecha_quinielon_noche": "22-05",
     "quinielon_noche": [
@@ -238,27 +238,27 @@
     ]
   },
   "lotedom": {
-    "fecha_quiniela": "22-05",
+    "fecha_quiniela": "23-05",
     "quiniela_lotedom": [
-      "22",
-      "96",
-      "63"
+      "45",
+      "57",
+      "21"
     ],
-    "fecha_quemaito": "22-05",
+    "fecha_quemaito": "23-05",
     "quemaito_mayor": [
-      "89"
+      "43"
     ],
-    "fecha_super_pale": "22-05",
+    "fecha_super_pale": "23-05",
     "super_pale": [
-      "22",
-      "89"
+      "45",
+      "43"
     ],
-    "fecha_agarra_4": "22-05",
+    "fecha_agarra_4": "23-05",
     "agarra_4": [
-      "22",
-      "96",
-      "63",
-      "89"
+      "45",
+      "57",
+      "21",
+      "43"
     ]
   },
   "anguila": {
