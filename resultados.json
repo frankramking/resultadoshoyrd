@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-23 01:24:14",
+  "actualizado": "2026-05-23 04:53:33",
   "nacional": {
     "fecha": "22-05",
     "fecha_juega_pega": "22-05",
@@ -388,11 +388,11 @@
       "95",
       "51"
     ],
-    "fecha_noche": "21-05",
+    "fecha_noche": "22-05",
     "new_york_noche": [
-      "29",
-      "73",
-      "39"
+      "78",
+      "72",
+      "67"
     ]
   },
   "new_york_completo": {
@@ -409,11 +409,11 @@
       "5",
       "1"
     ],
-    "fecha_numbers_noche": "21-05",
+    "fecha_numbers_noche": "22-05",
     "numbers_noche": [
-      "5",
-      "2",
-      "9"
+      "1",
+      "7",
+      "8"
     ],
     "fecha_take5_midday": "22-05",
     "take5_midday": [
@@ -423,20 +423,20 @@
       "28",
       "35"
     ],
-    "fecha_win4_noche": "21-05",
+    "fecha_win4_noche": "22-05",
     "win4_noche": [
       "7",
-      "3",
-      "3",
-      "9"
+      "2",
+      "6",
+      "7"
     ],
-    "fecha_take5_noche": "21-05",
+    "fecha_take5_noche": "22-05",
     "take5_noche": [
-      "01",
-      "05",
+      "08",
       "15",
-      "25",
-      "31"
+      "23",
+      "24",
+      "39"
     ],
     "fecha_new_york_lotto": "20-05",
     "new_york_lotto": [
@@ -456,20 +456,20 @@
       "85",
       "38"
     ],
-    "fecha_florida_noche": "21-05",
+    "fecha_florida_noche": "22-05",
     "florida_noche": [
-      "42",
-      "03",
-      "49"
+      "07",
+      "73",
+      "98"
     ],
-    "fecha_mega_millions": "19-05",
+    "fecha_mega_millions": "22-05",
     "mega_millions": [
-      "10",
-      "26",
+      "03",
+      "22",
       "34",
-      "56",
-      "64",
-      "06"
+      "54",
+      "61",
+      "08"
     ],
     "fecha_powerball": "20-05",
     "powerball": [
