@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-05-24 20:33:23",
+  "actualizado": "2026-05-24 22:32:40",
   "nacional": {
     "fecha": "24-05",
     "fecha_juega_pega": "24-05",
     "fecha_gana_mas": "24-05",
-    "fecha_loteria_nacional": "23-05",
+    "fecha_loteria_nacional": "24-05",
     "juega_pega": [
       "23",
       "13",
@@ -18,9 +18,9 @@
       "78"
     ],
     "loteria_nacional": [
-      "70",
-      "46",
-      "17"
+      "12",
+      "35",
+      "51"
     ],
     "fecha_billetes_domingo": "03-05",
     "billetes_domingo": [
@@ -83,10 +83,10 @@
       "02",
       "08"
     ],
-    "fecha_super_pale": "23-05",
+    "fecha_super_pale": "24-05",
     "super_pale": [
-      "90",
-      "70"
+      "66",
+      "12"
     ]
   },
   "real": {
@@ -230,11 +230,11 @@
       "52",
       "28"
     ],
-    "fecha_1800": "23-05",
+    "fecha_1800": "24-05",
     "la_suerte_1800": [
-      "37",
-      "37",
-      "78"
+      "68",
+      "73",
+      "25"
     ]
   },
   "lotedom": {
@@ -288,18 +288,18 @@
       "65",
       "12"
     ],
-    "fecha_tarde": "23-05",
+    "fecha_tarde": "24-05",
     "anguila_tarde": [
-      "95",
-      "69",
-      "94"
+      "55",
+      "70",
+      "47"
     ],
-    "fecha_cuarteta_tarde": "23-05",
+    "fecha_cuarteta_tarde": "24-05",
     "cuarteta_tarde": [
-      "62",
-      "44",
-      "99",
-      "90"
+      "96",
+      "29",
+      "70",
+      "47"
     ],
     "fecha_noche": "23-05",
     "anguila_noche": [
