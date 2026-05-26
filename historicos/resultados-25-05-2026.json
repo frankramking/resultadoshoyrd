@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-26 01:31:49",
+  "actualizado": "2026-05-26 05:45:49",
   "nacional": {
     "fecha": "25-05",
     "fecha_juega_pega": "25-05",
@@ -388,11 +388,11 @@
       "75",
       "78"
     ],
-    "fecha_noche": "24-05",
+    "fecha_noche": "25-05",
     "new_york_noche": [
-      "33",
-      "68",
-      "15"
+      "84",
+      "24",
+      "85"
     ]
   },
   "new_york_completo": {
@@ -409,11 +409,11 @@
       "7",
       "8"
     ],
-    "fecha_numbers_noche": "24-05",
+    "fecha_numbers_noche": "25-05",
     "numbers_noche": [
-      "1",
-      "3",
-      "3"
+      "7",
+      "8",
+      "4"
     ],
     "fecha_take5_midday": "25-05",
     "take5_midday": [
@@ -423,20 +423,20 @@
       "19",
       "22"
     ],
-    "fecha_win4_noche": "24-05",
+    "fecha_win4_noche": "25-05",
     "win4_noche": [
-      "6",
+      "2",
+      "4",
       "8",
-      "1",
       "5"
     ],
-    "fecha_take5_noche": "24-05",
+    "fecha_take5_noche": "25-05",
     "take5_noche": [
-      "06",
-      "13",
-      "19",
-      "31",
-      "38"
+      "09",
+      "12",
+      "21",
+      "36",
+      "37"
     ],
     "fecha_new_york_lotto": "23-05",
     "new_york_lotto": [
@@ -456,11 +456,11 @@
       "70",
       "78"
     ],
-    "fecha_florida_noche": "24-05",
+    "fecha_florida_noche": "25-05",
     "florida_noche": [
-      "97",
-      "39",
-      "51"
+      "62",
+      "21",
+      "10"
     ],
     "fecha_mega_millions": "22-05",
     "mega_millions": [
@@ -471,24 +471,24 @@
       "61",
       "08"
     ],
-    "fecha_powerball": "23-05",
+    "fecha_powerball": "25-05",
     "powerball": [
-      "04",
-      "16",
-      "41",
+      "17",
+      "32",
       "48",
-      "66",
-      "26"
+      "60",
+      "64",
+      "10"
     ],
     "powerplay": "2X",
-    "fecha_powerball_double_play": "23-05",
+    "fecha_powerball_double_play": "25-05",
     "powerball_double_play": [
-      "36",
-      "42",
-      "53",
-      "57",
-      "63",
-      "17"
+      "02",
+      "20",
+      "31",
+      "33",
+      "38",
+      "18"
     ],
     "fecha_cash_4_life": "21-02",
     "cash_4_life": [
