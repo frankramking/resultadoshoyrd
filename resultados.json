@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-05-27 17:47:18",
+  "actualizado": "2026-05-27 19:49:48",
   "nacional": {
-    "fecha": "26-05",
-    "fecha_juega_pega": "26-05",
-    "fecha_gana_mas": "26-05",
+    "fecha": "27-05",
+    "fecha_juega_pega": "27-05",
+    "fecha_gana_mas": "27-05",
     "fecha_loteria_nacional": "26-05",
     "juega_pega": [
-      "08",
-      "06",
-      "07",
       "22",
-      "07"
+      "26",
+      "09",
+      "26",
+      "23"
     ],
     "gana_mas": [
-      "29",
-      "83",
-      "89"
+      "38",
+      "40",
+      "48"
     ],
     "loteria_nacional": [
       "52",
@@ -130,10 +130,10 @@
       "28",
       "33"
     ],
-    "fecha_super_pale": "26-05",
+    "fecha_super_pale": "27-05",
     "super_pale": [
-      "55",
-      "29"
+      "79",
+      "38"
     ],
     "fecha_chance_real": "26-05",
     "chance_real": [
@@ -382,11 +382,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "26-05",
+    "fecha_tarde": "27-05",
     "new_york_tarde": [
-      "90",
-      "11",
-      "63"
+      "00",
+      "13",
+      "42"
     ],
     "fecha_noche": "26-05",
     "new_york_noche": [
@@ -396,18 +396,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "26-05",
+    "fecha_numbers_medio_dia": "27-05",
     "numbers_medio_dia": [
-      "8",
-      "9",
+      "1",
+      "0",
       "0"
     ],
-    "fecha_win4_medio_dia": "26-05",
+    "fecha_win4_medio_dia": "27-05",
     "win4_medio_dia": [
       "1",
-      "1",
-      "6",
-      "3"
+      "3",
+      "4",
+      "2"
     ],
     "fecha_numbers_noche": "26-05",
     "numbers_noche": [
@@ -415,13 +415,13 @@
       "6",
       "3"
     ],
-    "fecha_take5_midday": "26-05",
+    "fecha_take5_midday": "27-05",
     "take5_midday": [
-      "03",
-      "13",
-      "20",
-      "23",
-      "28"
+      "04",
+      "12",
+      "22",
+      "26",
+      "31"
     ],
     "fecha_win4_noche": "26-05",
     "win4_noche": [
