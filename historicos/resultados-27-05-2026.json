@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-05-27 23:55:47",
+  "actualizado": "2026-05-28 06:33:17",
   "nacional": {
     "fecha": "27-05",
     "fecha_juega_pega": "27-05",
     "fecha_gana_mas": "27-05",
-    "fecha_loteria_nacional": "26-05",
+    "fecha_loteria_nacional": "27-05",
     "juega_pega": [
       "22",
       "26",
@@ -18,9 +18,9 @@
       "48"
     ],
     "loteria_nacional": [
-      "52",
-      "21",
-      "83"
+      "70",
+      "72",
+      "35"
     ],
     "fecha_billetes_domingo": "03-05",
     "billetes_domingo": [
@@ -30,63 +30,63 @@
     ]
   },
   "leidsa": {
-    "fecha": "26-05",
+    "fecha": "27-05",
     "pega_3_mas": [
-      "21",
-      "07",
-      "15"
+      "20",
+      "02",
+      "36"
     ],
     "quiniela_leidsa": [
-      "08",
-      "88",
-      "66"
+      "53",
+      "51",
+      "01"
     ],
-    "fecha_loto_pool": "26-05",
+    "fecha_loto_pool": "27-05",
     "loto_pool": [
+      "05",
+      "06",
+      "13",
+      "23",
+      "25"
+    ],
+    "fecha_super_kino": "27-05",
+    "super_kino_tv": [
+      "03",
       "04",
       "05",
-      "24",
-      "25",
-      "31"
-    ],
-    "fecha_super_kino": "26-05",
-    "super_kino_tv": [
-      "02",
       "06",
-      "07",
-      "09",
-      "14",
+      "18",
       "19",
-      "20",
-      "21",
-      "24",
       "28",
+      "34",
       "36",
-      "38",
-      "47",
-      "52",
-      "54",
-      "60",
-      "61",
-      "63",
+      "37",
+      "43",
+      "45",
+      "46",
+      "55",
+      "57",
+      "58",
       "65",
-      "71"
+      "69",
+      "72",
+      "74"
     ],
-    "fecha_loto_super_loto": "23-05",
+    "fecha_loto_super_loto": "27-05",
     "loto_super_loto_mas": [
       "02",
-      "05",
       "10",
-      "29",
-      "30",
-      "38",
-      "02",
-      "08"
+      "15",
+      "22",
+      "34",
+      "40",
+      "09",
+      "03"
     ],
-    "fecha_super_pale": "26-05",
+    "fecha_super_pale": "27-05",
     "super_pale": [
-      "08",
-      "52"
+      "53",
+      "70"
     ]
   },
   "real": {
@@ -135,50 +135,50 @@
       "79",
       "38"
     ],
-    "fecha_chance_real": "26-05",
+    "fecha_chance_real": "27-05",
     "chance_real": [
-      "17",
-      "35",
-      "67",
-      "54",
-      "16"
+      "73",
+      "82",
+      "03",
+      "08",
+      "53"
     ],
-    "fecha_repartidera_real": "26-05",
+    "fecha_repartidera_real": "27-05",
     "repartidera_real": [
-      "43"
+      "17"
     ],
-    "fecha_loto_pool_noche": "26-05",
+    "fecha_loto_pool_noche": "27-05",
     "loto_pool_noche": [
-      "50",
-      "28",
-      "37",
-      "81"
+      "67",
+      "65",
+      "42",
+      "90"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "26-05",
+    "fecha_toca_3": "27-05",
     "toca_3": [
-      "1",
-      "9",
-      "7"
+      "2",
+      "4",
+      "8"
     ],
-    "fecha": "26-05",
+    "fecha": "27-05",
     "quiniela_loteka": [
-      "10",
-      "01",
-      "94"
+      "88",
+      "28",
+      "33"
     ],
-    "fecha_mega_chance": "26-05",
+    "fecha_mega_chance": "27-05",
     "mega_chance": [
-      "21",
-      "59",
-      "85",
-      "32",
-      "18"
+      "03",
+      "46",
+      "45",
+      "41",
+      "55"
     ],
-    "fecha_mc_repartidera": "26-05",
+    "fecha_mc_repartidera": "27-05",
     "mc_repartidera": [
-      "72"
+      "37"
     ],
     "fecha_megalotto": "25-05",
     "megalotto": [
@@ -301,18 +301,18 @@
       "83",
       "41"
     ],
-    "fecha_noche": "26-05",
+    "fecha_noche": "27-05",
     "anguila_noche": [
-      "82",
-      "52",
+      "44",
+      "92",
       "24"
     ],
-    "fecha_cuarteta_noche": "26-05",
+    "fecha_cuarteta_noche": "27-05",
     "cuarteta_noche": [
-      "17",
-      "62",
-      "66",
-      "93"
+      "30",
+      "89",
+      "00",
+      "73"
     ]
   },
   "king_lottery": {
@@ -388,11 +388,11 @@
       "13",
       "42"
     ],
-    "fecha_noche": "26-05",
+    "fecha_noche": "27-05",
     "new_york_noche": [
-      "63",
-      "10",
-      "63"
+      "00",
+      "94",
+      "92"
     ]
   },
   "new_york_completo": {
@@ -409,11 +409,11 @@
       "4",
       "2"
     ],
-    "fecha_numbers_noche": "26-05",
+    "fecha_numbers_noche": "27-05",
     "numbers_noche": [
-      "7",
-      "6",
-      "3"
+      "2",
+      "0",
+      "0"
     ],
     "fecha_take5_midday": "27-05",
     "take5_midday": [
@@ -423,30 +423,30 @@
       "26",
       "31"
     ],
-    "fecha_win4_noche": "26-05",
+    "fecha_win4_noche": "27-05",
     "win4_noche": [
-      "1",
-      "0",
-      "6",
-      "3"
+      "9",
+      "4",
+      "9",
+      "2"
     ],
-    "fecha_take5_noche": "26-05",
+    "fecha_take5_noche": "27-05",
     "take5_noche": [
-      "12",
-      "18",
-      "20",
-      "28",
-      "32"
+      "08",
+      "24",
+      "25",
+      "27",
+      "37"
     ],
-    "fecha_new_york_lotto": "23-05",
+    "fecha_new_york_lotto": "27-05",
     "new_york_lotto": [
-      "13",
-      "30",
-      "07",
-      "31",
+      "17",
+      "39",
       "51",
-      "36",
-      "21"
+      "01",
+      "27",
+      "41",
+      "48"
     ]
   },
   "americanas": {
@@ -456,10 +456,10 @@
       "22",
       "50"
     ],
-    "fecha_florida_noche": "26-05",
+    "fecha_florida_noche": "27-05",
     "florida_noche": [
-      "56",
-      "23",
+      "33",
+      "51",
       "01"
     ],
     "fecha_mega_millions": "26-05",
@@ -471,24 +471,24 @@
       "59",
       "07"
     ],
-    "fecha_powerball": "25-05",
+    "fecha_powerball": "27-05",
     "powerball": [
-      "17",
-      "32",
-      "48",
-      "60",
-      "64",
-      "10"
-    ],
-    "powerplay": "2X",
-    "fecha_powerball_double_play": "25-05",
-    "powerball_double_play": [
-      "02",
-      "20",
+      "05",
+      "14",
+      "21",
       "31",
-      "33",
-      "38",
-      "18"
+      "51",
+      "13"
+    ],
+    "powerplay": "4X",
+    "fecha_powerball_double_play": "27-05",
+    "powerball_double_play": [
+      "04",
+      "09",
+      "43",
+      "62",
+      "68",
+      "03"
     ],
     "fecha_cash_4_life": "21-02",
     "cash_4_life": [
