@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-30 14:56:27",
+  "actualizado": "2026-05-30 17:11:48",
   "nacional": {
     "fecha": "29-05",
     "fecha_juega_pega": "29-05",
@@ -90,10 +90,10 @@
     ]
   },
   "real": {
-    "fecha": "29-05",
-    "fecha_tu_fecha_real": "29-05",
+    "fecha": "30-05",
+    "fecha_tu_fecha_real": "30-05",
     "tu_fecha_real": [
-      "16"
+      "19"
     ],
     "fecha_pega4_real": "31-03",
     "pega4_real": [
@@ -102,25 +102,25 @@
       "2",
       "0"
     ],
-    "fecha_loto_pool_real": "29-05",
+    "fecha_loto_pool_real": "30-05",
     "loto_pool_real": [
-      "47",
-      "85",
-      "75",
-      "49"
+      "19",
+      "02",
+      "55",
+      "04"
     ],
     "quiniela_real": [
-      "10",
-      "67",
-      "76"
+      "49",
+      "58",
+      "08"
     ],
-    "fecha_nueva_yol_real": "29-05",
+    "fecha_nueva_yol_real": "30-05",
     "nueva_yol_real": [
-      "53",
-      "80",
-      "93"
+      "82",
+      "29",
+      "22"
     ],
-    "nueva_yol_color": "Verde",
+    "nueva_yol_color": "Amarilla",
     "fecha_loto_real": "29-05",
     "loto_real": [
       "06",
@@ -193,15 +193,15 @@
     ]
   },
   "primera": {
-    "fecha_quinielon_dia": "29-05",
+    "fecha_quinielon_dia": "30-05",
     "quinielon_dia": [
-      "65"
+      "31"
     ],
-    "fecha_dia": "29-05",
+    "fecha_dia": "30-05",
     "la_primera_dia": [
-      "41",
-      "89",
-      "35"
+      "76",
+      "85",
+      "77"
     ],
     "fecha_quinielon_noche": "29-05",
     "quinielon_noche": [
@@ -224,11 +224,11 @@
     ]
   },
   "suerte": {
-    "fecha_1230": "29-05",
+    "fecha_1230": "30-05",
     "la_suerte_1230": [
-      "18",
-      "27",
-      "73"
+      "88",
+      "49",
+      "82"
     ],
     "fecha_1800": "29-05",
     "la_suerte_1800": [
@@ -238,27 +238,27 @@
     ]
   },
   "lotedom": {
-    "fecha_quiniela": "29-05",
+    "fecha_quiniela": "30-05",
     "quiniela_lotedom": [
-      "95",
-      "40",
-      "70"
+      "31",
+      "82",
+      "47"
     ],
-    "fecha_quemaito": "29-05",
+    "fecha_quemaito": "30-05",
     "quemaito_mayor": [
-      "43"
+      "52"
     ],
-    "fecha_super_pale": "29-05",
+    "fecha_super_pale": "30-05",
     "super_pale": [
-      "95",
-      "43"
+      "31",
+      "52"
     ],
-    "fecha_agarra_4": "29-05",
+    "fecha_agarra_4": "30-05",
     "agarra_4": [
-      "95",
-      "40",
-      "70",
-      "43"
+      "31",
+      "82",
+      "47",
+      "52"
     ]
   },
   "anguila": {
@@ -275,18 +275,18 @@
       "99",
       "56"
     ],
-    "fecha_medio_dia": "29-05",
+    "fecha_medio_dia": "30-05",
     "anguila_medio_dia": [
-      "54",
-      "28",
-      "16"
+      "98",
+      "30",
+      "96"
     ],
-    "fecha_cuarteta_medio_dia": "29-05",
+    "fecha_cuarteta_medio_dia": "30-05",
     "cuarteta_medio_dia": [
-      "17",
-      "51",
-      "51",
-      "12"
+      "68",
+      "08",
+      "78",
+      "60"
     ],
     "fecha_tarde": "29-05",
     "anguila_tarde": [
@@ -316,11 +316,11 @@
     ]
   },
   "king_lottery": {
-    "fecha_1230": "29-05",
+    "fecha_1230": "30-05",
     "king_1230": [
-      "91",
-      "50",
-      "88"
+      "41",
+      "42",
+      "01"
     ],
     "fecha_730": "29-05",
     "king_730": [
@@ -328,31 +328,31 @@
       "17",
       "40"
     ],
-    "fecha_pick3_dia": "29-05",
+    "fecha_pick3_dia": "30-05",
     "pick3_dia": [
-      "2",
-      "9",
+      "1",
+      "4",
       "1"
     ],
-    "fecha_pick4_dia": "29-05",
+    "fecha_pick4_dia": "30-05",
     "pick4_dia": [
-      "5",
+      "4",
+      "2",
       "0",
-      "8",
-      "8"
+      "1"
     ],
-    "fecha_philipsburg_medio_dia": "29-05",
+    "fecha_philipsburg_medio_dia": "30-05",
     "philipsburg_medio_dia": [
-      "3925",
-      "6950",
-      "0884"
+      "0448",
+      "2047",
+      "7810"
     ],
-    "fecha_loto_pool_medio_dia": "29-05",
+    "fecha_loto_pool_medio_dia": "30-05",
     "loto_pool_medio_dia": [
-      "00",
-      "96",
-      "07",
-      "54"
+      "91",
+      "90",
+      "40",
+      "35"
     ],
     "fecha_pick3_noche": "29-05",
     "pick3_noche": [
