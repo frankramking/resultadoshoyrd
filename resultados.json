@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-29 23:00:15",
+  "actualizado": "2026-05-30 00:11:34",
   "nacional": {
     "fecha": "29-05",
     "fecha_juega_pega": "29-05",
@@ -121,64 +121,64 @@
       "93"
     ],
     "nueva_yol_color": "Verde",
-    "fecha_loto_real": "26-05",
+    "fecha_loto_real": "29-05",
     "loto_real": [
-      "02",
-      "08",
-      "14",
-      "20",
-      "28",
-      "33"
+      "06",
+      "18",
+      "23",
+      "25",
+      "31",
+      "34"
     ],
     "fecha_super_pale": "29-05",
     "super_pale": [
       "10",
       "85"
     ],
-    "fecha_chance_real": "28-05",
+    "fecha_chance_real": "29-05",
     "chance_real": [
-      "23",
-      "24",
+      "98",
+      "37",
+      "40",
       "46",
-      "56",
-      "07"
+      "41"
     ],
-    "fecha_repartidera_real": "28-05",
+    "fecha_repartidera_real": "29-05",
     "repartidera_real": [
-      "31"
+      "73"
     ],
-    "fecha_loto_pool_noche": "28-05",
+    "fecha_loto_pool_noche": "29-05",
     "loto_pool_noche": [
-      "58",
-      "20",
-      "27",
-      "05"
+      "65",
+      "78",
+      "18",
+      "48"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "28-05",
+    "fecha_toca_3": "29-05",
     "toca_3": [
-      "3",
-      "1",
-      "1"
+      "7",
+      "7",
+      "5"
     ],
-    "fecha": "28-05",
+    "fecha": "29-05",
     "quiniela_loteka": [
-      "75",
-      "65",
-      "16"
+      "77",
+      "32",
+      "35"
     ],
-    "fecha_mega_chance": "28-05",
+    "fecha_mega_chance": "29-05",
     "mega_chance": [
-      "02",
-      "92",
-      "03",
-      "28",
-      "01"
+      "73",
+      "37",
+      "89",
+      "07",
+      "87"
     ],
-    "fecha_mc_repartidera": "28-05",
+    "fecha_mc_repartidera": "29-05",
     "mc_repartidera": [
-      "06"
+      "16"
     ],
     "fecha_megalotto": "28-05",
     "megalotto": [
@@ -203,24 +203,24 @@
       "89",
       "35"
     ],
-    "fecha_quinielon_noche": "28-05",
+    "fecha_quinielon_noche": "29-05",
     "quinielon_noche": [
-      "73"
+      "31"
     ],
-    "fecha_noche": "28-05",
+    "fecha_noche": "29-05",
     "primera_noche": [
-      "61",
-      "85",
-      "42"
+      "51",
+      "53",
+      "87"
     ],
-    "fecha_loto5": "28-05",
+    "fecha_loto5": "29-05",
     "loto_5": [
-      "31",
+      "27",
+      "20",
+      "25",
+      "08",
       "28",
-      "15",
-      "36",
-      "13",
-      "10"
+      "04"
     ]
   },
   "suerte": {
@@ -322,11 +322,11 @@
       "50",
       "88"
     ],
-    "fecha_730": "28-05",
+    "fecha_730": "29-05",
     "king_730": [
-      "63",
-      "38",
-      "65"
+      "50",
+      "17",
+      "40"
     ],
     "fecha_pick3_dia": "29-05",
     "pick3_dia": [
@@ -354,31 +354,31 @@
       "07",
       "54"
     ],
-    "fecha_pick3_noche": "28-05",
+    "fecha_pick3_noche": "29-05",
     "pick3_noche": [
-      "6",
-      "6",
-      "3"
-    ],
-    "fecha_pick4_noche": "28-05",
-    "pick4_noche": [
-      "3",
       "8",
-      "6",
-      "5"
+      "5",
+      "0"
     ],
-    "fecha_philipsburg_noche": "28-05",
+    "fecha_pick4_noche": "29-05",
+    "pick4_noche": [
+      "1",
+      "7",
+      "4",
+      "0"
+    ],
+    "fecha_philipsburg_noche": "29-05",
     "philipsburg_noche": [
-      "5623",
-      "5835",
-      "0778"
+      "1911",
+      "6270",
+      "6493"
     ],
-    "fecha_loto_pool_noche": "28-05",
+    "fecha_loto_pool_noche": "29-05",
     "loto_pool_noche": [
-      "00",
-      "06",
-      "74",
-      "91"
+      "75",
+      "52",
+      "33",
+      "64"
     ]
   },
   "new_york": {
