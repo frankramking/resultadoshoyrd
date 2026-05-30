@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-05-30 00:11:34",
+  "actualizado": "2026-05-30 04:15:58",
   "nacional": {
     "fecha": "29-05",
     "fecha_juega_pega": "29-05",
     "fecha_gana_mas": "29-05",
-    "fecha_loteria_nacional": "28-05",
+    "fecha_loteria_nacional": "29-05",
     "juega_pega": [
       "13",
       "16",
@@ -18,9 +18,9 @@
       "23"
     ],
     "loteria_nacional": [
-      "49",
-      "27",
-      "18"
+      "84",
+      "26",
+      "47"
     ],
     "fecha_billetes_domingo": "03-05",
     "billetes_domingo": [
@@ -30,46 +30,46 @@
     ]
   },
   "leidsa": {
-    "fecha": "28-05",
+    "fecha": "29-05",
     "pega_3_mas": [
-      "43",
-      "06",
-      "30"
+      "02",
+      "33",
+      "46"
     ],
     "quiniela_leidsa": [
-      "44",
-      "56",
-      "97"
+      "39",
+      "25",
+      "02"
     ],
-    "fecha_loto_pool": "28-05",
+    "fecha_loto_pool": "29-05",
     "loto_pool": [
-      "09",
-      "19",
-      "20",
+      "03",
+      "14",
+      "22",
       "23",
-      "24"
+      "28"
     ],
-    "fecha_super_kino": "28-05",
+    "fecha_super_kino": "29-05",
     "super_kino_tv": [
-      "08",
+      "04",
+      "06",
+      "07",
       "11",
-      "19",
-      "24",
-      "30",
-      "31",
-      "32",
-      "33",
+      "18",
+      "23",
+      "26",
+      "37",
+      "39",
       "41",
       "42",
-      "48",
-      "54",
-      "57",
-      "60",
-      "61",
-      "63",
-      "71",
-      "72",
-      "77",
+      "51",
+      "52",
+      "55",
+      "64",
+      "66",
+      "74",
+      "76",
+      "78",
       "80"
     ],
     "fecha_loto_super_loto": "27-05",
@@ -83,10 +83,10 @@
       "09",
       "03"
     ],
-    "fecha_super_pale": "28-05",
+    "fecha_super_pale": "29-05",
     "super_pale": [
-      "44",
-      "49"
+      "39",
+      "84"
     ]
   },
   "real": {
@@ -301,17 +301,17 @@
       "08",
       "39"
     ],
-    "fecha_noche": "28-05",
+    "fecha_noche": "29-05",
     "anguila_noche": [
-      "08",
-      "64",
-      "76"
+      "70",
+      "21",
+      "87"
     ],
-    "fecha_cuarteta_noche": "28-05",
+    "fecha_cuarteta_noche": "29-05",
     "cuarteta_noche": [
-      "05",
-      "63",
-      "48",
+      "47",
+      "10",
+      "28",
       "83"
     ]
   },
@@ -388,11 +388,11 @@
       "14",
       "73"
     ],
-    "fecha_noche": "28-05",
+    "fecha_noche": "29-05",
     "new_york_noche": [
-      "58",
-      "54",
-      "87"
+      "40",
+      "42",
+      "34"
     ]
   },
   "new_york_completo": {
@@ -409,11 +409,11 @@
       "7",
       "3"
     ],
-    "fecha_numbers_noche": "28-05",
+    "fecha_numbers_noche": "29-05",
     "numbers_noche": [
+      "9",
       "4",
-      "5",
-      "8"
+      "0"
     ],
     "fecha_take5_midday": "29-05",
     "take5_midday": [
@@ -423,20 +423,20 @@
       "34",
       "38"
     ],
-    "fecha_win4_noche": "28-05",
+    "fecha_win4_noche": "29-05",
     "win4_noche": [
-      "5",
       "4",
-      "8",
-      "7"
+      "2",
+      "3",
+      "4"
     ],
-    "fecha_take5_noche": "28-05",
+    "fecha_take5_noche": "29-05",
     "take5_noche": [
-      "01",
-      "06",
-      "09",
-      "17",
-      "36"
+      "04",
+      "07",
+      "08",
+      "31",
+      "37"
     ],
     "fecha_new_york_lotto": "27-05",
     "new_york_lotto": [
@@ -456,19 +456,19 @@
       "57",
       "23"
     ],
-    "fecha_florida_noche": "28-05",
+    "fecha_florida_noche": "29-05",
     "florida_noche": [
-      "44",
-      "66",
-      "67"
+      "33",
+      "87",
+      "27"
     ],
-    "fecha_mega_millions": "26-05",
+    "fecha_mega_millions": "29-05",
     "mega_millions": [
-      "01",
-      "05",
-      "49",
-      "51",
+      "19",
+      "24",
+      "47",
       "59",
+      "65",
       "07"
     ],
     "fecha_powerball": "27-05",
