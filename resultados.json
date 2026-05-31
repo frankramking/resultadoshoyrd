@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-31 14:07:17",
+  "actualizado": "2026-05-31 16:43:30",
   "nacional": {
     "fecha": "30-05",
     "fecha_juega_pega": "30-05",
@@ -193,15 +193,15 @@
     ]
   },
   "primera": {
-    "fecha_quinielon_dia": "30-05",
+    "fecha_quinielon_dia": "31-05",
     "quinielon_dia": [
-      "31"
+      "01"
     ],
-    "fecha_dia": "30-05",
+    "fecha_dia": "31-05",
     "la_primera_dia": [
-      "76",
-      "85",
-      "77"
+      "98",
+      "70",
+      "56"
     ],
     "fecha_quinielon_noche": "30-05",
     "quinielon_noche": [
@@ -224,11 +224,11 @@
     ]
   },
   "suerte": {
-    "fecha_1230": "30-05",
+    "fecha_1230": "31-05",
     "la_suerte_1230": [
-      "88",
-      "49",
-      "82"
+      "91",
+      "22",
+      "18"
     ],
     "fecha_1800": "30-05",
     "la_suerte_1800": [
@@ -238,27 +238,27 @@
     ]
   },
   "lotedom": {
-    "fecha_quiniela": "30-05",
+    "fecha_quiniela": "31-05",
     "quiniela_lotedom": [
-      "31",
-      "82",
-      "47"
+      "81",
+      "59",
+      "71"
     ],
-    "fecha_quemaito": "30-05",
+    "fecha_quemaito": "31-05",
     "quemaito_mayor": [
-      "52"
+      "86"
     ],
-    "fecha_super_pale": "30-05",
+    "fecha_super_pale": "31-05",
     "super_pale": [
-      "31",
-      "52"
+      "81",
+      "86"
     ],
-    "fecha_agarra_4": "30-05",
+    "fecha_agarra_4": "31-05",
     "agarra_4": [
-      "31",
-      "82",
-      "47",
-      "52"
+      "81",
+      "59",
+      "71",
+      "86"
     ]
   },
   "anguila": {
@@ -316,11 +316,11 @@
     ]
   },
   "king_lottery": {
-    "fecha_1230": "30-05",
+    "fecha_1230": "31-05",
     "king_1230": [
+      "30",
       "41",
-      "42",
-      "01"
+      "46"
     ],
     "fecha_730": "30-05",
     "king_730": [
@@ -328,31 +328,31 @@
       "86",
       "89"
     ],
-    "fecha_pick3_dia": "30-05",
+    "fecha_pick3_dia": "31-05",
     "pick3_dia": [
-      "1",
-      "4",
-      "1"
+      "7",
+      "3",
+      "0"
     ],
-    "fecha_pick4_dia": "30-05",
+    "fecha_pick4_dia": "31-05",
     "pick4_dia": [
       "4",
-      "2",
-      "0",
-      "1"
+      "1",
+      "4",
+      "6"
     ],
-    "fecha_philipsburg_medio_dia": "30-05",
+    "fecha_philipsburg_medio_dia": "31-05",
     "philipsburg_medio_dia": [
-      "0448",
-      "2047",
-      "7810"
+      "2310",
+      "8809",
+      "8966"
     ],
-    "fecha_loto_pool_medio_dia": "30-05",
+    "fecha_loto_pool_medio_dia": "31-05",
     "loto_pool_medio_dia": [
-      "91",
-      "90",
-      "40",
-      "35"
+      "61",
+      "04",
+      "47",
+      "24"
     ],
     "fecha_pick3_noche": "30-05",
     "pick3_noche": [
