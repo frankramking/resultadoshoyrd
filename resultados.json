@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-31 23:44:42",
+  "actualizado": "2026-06-01 07:10:23",
   "nacional": {
     "fecha": "31-05",
     "fecha_juega_pega": "31-05",
@@ -131,50 +131,50 @@
       "30",
       "70"
     ],
-    "fecha_chance_real": "30-05",
+    "fecha_chance_real": "31-05",
     "chance_real": [
-      "69",
-      "26",
-      "97",
-      "66",
-      "53"
-    ],
-    "fecha_repartidera_real": "30-05",
-    "repartidera_real": [
-      "34"
-    ],
-    "fecha_loto_pool_noche": "30-05",
-    "loto_pool_noche": [
+      "90",
+      "46",
       "99",
-      "62",
-      "41",
-      "08"
+      "19",
+      "66"
+    ],
+    "fecha_repartidera_real": "31-05",
+    "repartidera_real": [
+      "74"
+    ],
+    "fecha_loto_pool_noche": "31-05",
+    "loto_pool_noche": [
+      "09",
+      "71",
+      "43",
+      "44"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "30-05",
+    "fecha_toca_3": "31-05",
     "toca_3": [
-      "3",
-      "0",
-      "2"
+      "5",
+      "7",
+      "4"
     ],
-    "fecha": "30-05",
+    "fecha": "31-05",
     "quiniela_loteka": [
-      "29",
-      "85",
-      "81"
+      "02",
+      "50",
+      "31"
     ],
-    "fecha_mega_chance": "30-05",
+    "fecha_mega_chance": "31-05",
     "mega_chance": [
-      "67",
-      "47",
-      "24",
-      "36",
-      "68"
+      "97",
+      "09",
+      "62",
+      "72",
+      "12"
     ],
-    "fecha_mc_repartidera": "30-05",
+    "fecha_mc_repartidera": "31-05",
     "mc_repartidera": [
-      "20"
+      "76"
     ],
     "fecha_megalotto": "28-05",
     "megalotto": [
@@ -297,18 +297,18 @@
       "00",
       "67"
     ],
-    "fecha_noche": "30-05",
+    "fecha_noche": "31-05",
     "anguila_noche": [
-      "24",
-      "69",
-      "50"
+      "55",
+      "41",
+      "52"
     ],
-    "fecha_cuarteta_noche": "30-05",
+    "fecha_cuarteta_noche": "31-05",
     "cuarteta_noche": [
-      "36",
-      "26",
+      "59",
+      "73",
       "01",
-      "07"
+      "35"
     ]
   },
   "king_lottery": {
@@ -384,11 +384,11 @@
       "75",
       "63"
     ],
-    "fecha_noche": "30-05",
+    "fecha_noche": "31-05",
     "new_york_noche": [
-      "94",
-      "76",
-      "22"
+      "16",
+      "86",
+      "40"
     ]
   },
   "new_york_completo": {
@@ -405,11 +405,11 @@
       "6",
       "3"
     ],
-    "fecha_numbers_noche": "30-05",
+    "fecha_numbers_noche": "31-05",
     "numbers_noche": [
+      "8",
       "1",
-      "9",
-      "4"
+      "6"
     ],
     "fecha_take5_midday": "31-05",
     "take5_midday": [
@@ -419,20 +419,20 @@
       "26",
       "35"
     ],
-    "fecha_win4_noche": "30-05",
+    "fecha_win4_noche": "31-05",
     "win4_noche": [
-      "7",
+      "8",
       "6",
-      "2",
-      "2"
+      "4",
+      "0"
     ],
-    "fecha_take5_noche": "30-05",
+    "fecha_take5_noche": "31-05",
     "take5_noche": [
-      "02",
-      "06",
-      "16",
-      "30",
-      "38"
+      "01",
+      "23",
+      "24",
+      "26",
+      "36"
     ],
     "fecha_new_york_lotto": "30-05",
     "new_york_lotto": [
@@ -452,11 +452,11 @@
       "01",
       "17"
     ],
-    "fecha_florida_noche": "30-05",
+    "fecha_florida_noche": "31-05",
     "florida_noche": [
-      "31",
-      "07",
-      "78"
+      "43",
+      "70",
+      "46"
     ],
     "fecha_mega_millions": "29-05",
     "mega_millions": [
