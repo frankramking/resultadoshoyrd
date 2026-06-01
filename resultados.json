@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-01 21:49:34",
+  "actualizado": "2026-06-01 23:18:14",
   "nacional": {
     "fecha": "01-06",
     "fecha_juega_pega": "01-06",
@@ -199,24 +199,24 @@
       "62",
       "80"
     ],
-    "fecha_quinielon_noche": "31-05",
+    "fecha_quinielon_noche": "01-06",
     "quinielon_noche": [
-      "97"
+      "89"
     ],
-    "fecha_noche": "31-05",
+    "fecha_noche": "01-06",
     "primera_noche": [
+      "87",
       "33",
-      "45",
-      "64"
+      "95"
     ],
-    "fecha_loto5": "31-05",
+    "fecha_loto5": "01-06",
     "loto_5": [
-      "08",
-      "06",
+      "25",
       "27",
-      "33",
-      "35",
-      "04"
+      "09",
+      "22",
+      "11",
+      "10"
     ]
   },
   "suerte": {
@@ -226,11 +226,11 @@
       "67",
       "16"
     ],
-    "fecha_1800": "31-05",
+    "fecha_1800": "01-06",
     "la_suerte_1800": [
-      "97",
-      "89",
-      "12"
+      "51",
+      "72",
+      "72"
     ]
   },
   "lotedom": {
@@ -284,18 +284,18 @@
       "77",
       "30"
     ],
-    "fecha_tarde": "31-05",
+    "fecha_tarde": "01-06",
     "anguila_tarde": [
-      "54",
-      "62",
-      "29"
+      "78",
+      "56",
+      "12"
     ],
-    "fecha_cuarteta_tarde": "31-05",
+    "fecha_cuarteta_tarde": "01-06",
     "cuarteta_tarde": [
-      "18",
-      "87",
-      "00",
-      "67"
+      "44",
+      "81",
+      "91",
+      "07"
     ],
     "fecha_noche": "31-05",
     "anguila_noche": [
