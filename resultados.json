@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-06-04 23:53:09",
+  "actualizado": "2026-06-05 01:56:10",
   "nacional": {
     "fecha": "04-06",
     "fecha_juega_pega": "04-06",
     "fecha_gana_mas": "04-06",
-    "fecha_loteria_nacional": "03-06",
+    "fecha_loteria_nacional": "04-06",
     "juega_pega": [
       "25",
       "19",
@@ -18,54 +18,54 @@
       "49"
     ],
     "loteria_nacional": [
-      "28",
-      "31",
-      "05"
+      "74",
+      "26",
+      "22"
     ],
     "fecha_billetes_domingo": "",
     "billetes_domingo": []
   },
   "leidsa": {
-    "fecha": "03-06",
+    "fecha": "04-06",
     "pega_3_mas": [
-      "30",
-      "10",
-      "03"
+      "29",
+      "49",
+      "29"
     ],
     "quiniela_leidsa": [
-      "20",
-      "49",
-      "82"
-    ],
-    "fecha_loto_pool": "03-06",
-    "loto_pool": [
-      "05",
       "16",
-      "18",
-      "21",
-      "25"
+      "40",
+      "34"
     ],
-    "fecha_super_kino": "03-06",
-    "super_kino_tv": [
-      "01",
-      "07",
+    "fecha_loto_pool": "04-06",
+    "loto_pool": [
+      "10",
       "11",
-      "19",
-      "32",
-      "34",
-      "35",
+      "12",
+      "16",
+      "26"
+    ],
+    "fecha_super_kino": "04-06",
+    "super_kino_tv": [
+      "02",
+      "05",
+      "07",
+      "12",
+      "16",
+      "27",
       "37",
-      "38",
+      "40",
+      "41",
       "44",
-      "46",
-      "49",
-      "51",
-      "52",
-      "53",
+      "50",
       "55",
-      "59",
-      "67",
-      "71",
+      "56",
+      "60",
+      "61",
+      "63",
+      "65",
+      "66",
+      "76",
       "80"
     ],
     "fecha_loto_super_loto": "03-06",
@@ -79,10 +79,10 @@
       "06",
       "04"
     ],
-    "fecha_super_pale": "03-06",
+    "fecha_super_pale": "04-06",
     "super_pale": [
-      "20",
-      "28"
+      "16",
+      "74"
     ]
   },
   "real": {
@@ -131,61 +131,61 @@
       "77",
       "51"
     ],
-    "fecha_chance_real": "03-06",
+    "fecha_chance_real": "04-06",
     "chance_real": [
-      "55",
-      "71",
-      "13",
-      "96",
-      "04"
+      "76",
+      "45",
+      "57",
+      "40",
+      "38"
     ],
-    "fecha_repartidera_real": "03-06",
+    "fecha_repartidera_real": "04-06",
     "repartidera_real": [
-      "76"
+      "96"
     ],
-    "fecha_loto_pool_noche": "03-06",
+    "fecha_loto_pool_noche": "04-06",
     "loto_pool_noche": [
-      "42",
-      "89",
-      "58",
-      "55"
+      "75",
+      "63",
+      "38",
+      "41"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "03-06",
+    "fecha_toca_3": "04-06",
     "toca_3": [
-      "2",
-      "1",
-      "5"
+      "9",
+      "4",
+      "8"
     ],
-    "fecha": "03-06",
+    "fecha": "04-06",
     "quiniela_loteka": [
-      "93",
-      "57",
-      "32"
+      "14",
+      "41",
+      "59"
     ],
-    "fecha_mega_chance": "03-06",
+    "fecha_mega_chance": "04-06",
     "mega_chance": [
-      "06",
-      "40",
-      "01",
+      "65",
       "43",
-      "26"
+      "30",
+      "83",
+      "06"
     ],
-    "fecha_mc_repartidera": "03-06",
+    "fecha_mc_repartidera": "04-06",
     "mc_repartidera": [
-      "54"
+      "37"
     ],
-    "fecha_megalotto": "01-06",
+    "fecha_megalotto": "04-06",
     "megalotto": [
-      "04",
-      "15",
+      "10",
+      "13",
+      "14",
+      "17",
       "25",
-      "28",
-      "34",
-      "36",
+      "27",
       "01",
-      "03"
+      "01"
     ]
   },
   "primera": {
@@ -297,18 +297,18 @@
       "81",
       "99"
     ],
-    "fecha_noche": "03-06",
+    "fecha_noche": "04-06",
     "anguila_noche": [
-      "38",
-      "69",
-      "50"
+      "86",
+      "34",
+      "06"
     ],
-    "fecha_cuarteta_noche": "03-06",
+    "fecha_cuarteta_noche": "04-06",
     "cuarteta_noche": [
-      "19",
-      "07",
-      "97",
-      "36"
+      "17",
+      "16",
+      "79",
+      "28"
     ]
   },
   "king_lottery": {
@@ -452,11 +452,11 @@
       "81",
       "41"
     ],
-    "fecha_florida_noche": "03-06",
+    "fecha_florida_noche": "04-06",
     "florida_noche": [
-      "19",
-      "49",
-      "28"
+      "75",
+      "98",
+      "65"
     ],
     "fecha_mega_millions": "02-06",
     "mega_millions": [
