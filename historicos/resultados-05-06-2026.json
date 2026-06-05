@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-05 22:46:42",
+  "actualizado": "2026-06-05 23:51:49",
   "nacional": {
     "fecha": "05-06",
     "fecha_juega_pega": "05-06",
@@ -199,24 +199,24 @@
       "48",
       "17"
     ],
-    "fecha_quinielon_noche": "04-06",
+    "fecha_quinielon_noche": "05-06",
     "quinielon_noche": [
-      "00"
+      "24"
     ],
-    "fecha_noche": "04-06",
+    "fecha_noche": "05-06",
     "primera_noche": [
-      "12",
-      "13",
-      "60"
-    ],
-    "fecha_loto5": "04-06",
-    "loto_5": [
-      "34",
-      "14",
       "07",
-      "37",
-      "27",
-      "04"
+      "02",
+      "90"
+    ],
+    "fecha_loto5": "05-06",
+    "loto_5": [
+      "01",
+      "16",
+      "25",
+      "20",
+      "07",
+      "09"
     ]
   },
   "suerte": {
@@ -318,11 +318,11 @@
       "36",
       "71"
     ],
-    "fecha_730": "04-06",
+    "fecha_730": "05-06",
     "king_730": [
-      "55",
-      "14",
-      "76"
+      "28",
+      "01",
+      "36"
     ],
     "fecha_pick3_dia": "05-06",
     "pick3_dia": [
@@ -350,31 +350,31 @@
       "42",
       "62"
     ],
-    "fecha_pick3_noche": "04-06",
+    "fecha_pick3_noche": "05-06",
     "pick3_noche": [
-      "6",
       "5",
-      "5"
+      "2",
+      "8"
     ],
-    "fecha_pick4_noche": "04-06",
+    "fecha_pick4_noche": "05-06",
     "pick4_noche": [
+      "0",
       "1",
-      "4",
-      "7",
+      "3",
       "6"
     ],
-    "fecha_philipsburg_noche": "04-06",
+    "fecha_philipsburg_noche": "05-06",
     "philipsburg_noche": [
-      "5547",
-      "2709",
-      "4425"
+      "6348",
+      "4975",
+      "1336"
     ],
-    "fecha_loto_pool_noche": "04-06",
+    "fecha_loto_pool_noche": "05-06",
     "loto_pool_noche": [
-      "16",
-      "09",
-      "49",
-      "46"
+      "52",
+      "27",
+      "94",
+      "42"
     ]
   },
   "new_york": {
