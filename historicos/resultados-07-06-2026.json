@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-06-07 17:16:22",
+  "actualizado": "2026-06-07 18:40:11",
   "nacional": {
-    "fecha": "06-06",
-    "fecha_juega_pega": "06-06",
+    "fecha": "07-06",
+    "fecha_juega_pega": "07-06",
     "fecha_gana_mas": "06-06",
     "fecha_loteria_nacional": "06-06",
     "juega_pega": [
-      "06",
-      "11",
-      "18",
-      "25",
-      "02"
+      "16",
+      "24",
+      "03",
+      "13",
+      "07"
     ],
     "gana_mas": [
       "13",
@@ -378,11 +378,11 @@
     ]
   },
   "new_york": {
-    "fecha_tarde": "06-06",
+    "fecha_tarde": "07-06",
     "new_york_tarde": [
+      "13",
       "16",
-      "68",
-      "68"
+      "19"
     ],
     "fecha_noche": "06-06",
     "new_york_noche": [
@@ -392,18 +392,18 @@
     ]
   },
   "new_york_completo": {
-    "fecha_numbers_medio_dia": "06-06",
+    "fecha_numbers_medio_dia": "07-06",
     "numbers_medio_dia": [
-      "8",
+      "9",
       "1",
-      "6"
+      "3"
     ],
-    "fecha_win4_medio_dia": "06-06",
+    "fecha_win4_medio_dia": "07-06",
     "win4_medio_dia": [
+      "1",
       "6",
-      "8",
-      "6",
-      "8"
+      "1",
+      "9"
     ],
     "fecha_numbers_noche": "06-06",
     "numbers_noche": [
@@ -411,13 +411,13 @@
       "1",
       "4"
     ],
-    "fecha_take5_midday": "06-06",
+    "fecha_take5_midday": "07-06",
     "take5_midday": [
-      "06",
-      "26",
-      "29",
-      "31",
-      "33"
+      "10",
+      "18",
+      "21",
+      "28",
+      "39"
     ],
     "fecha_win4_noche": "06-06",
     "win4_noche": [
@@ -446,11 +446,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "06-06",
+    "fecha_florida_dia": "07-06",
     "florida_dia": [
-      "10",
-      "87",
-      "08"
+      "41",
+      "06",
+      "90"
     ],
     "fecha_florida_noche": "06-06",
     "florida_noche": [
