@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-06-07 18:40:11",
+  "actualizado": "2026-06-07 19:58:37",
   "nacional": {
     "fecha": "07-06",
     "fecha_juega_pega": "07-06",
-    "fecha_gana_mas": "06-06",
+    "fecha_gana_mas": "07-06",
     "fecha_loteria_nacional": "06-06",
     "juega_pega": [
       "16",
@@ -13,9 +13,9 @@
       "07"
     ],
     "gana_mas": [
-      "13",
-      "60",
-      "30"
+      "96",
+      "51",
+      "78"
     ],
     "loteria_nacional": [
       "07",
@@ -26,24 +26,24 @@
     "billetes_domingo": []
   },
   "leidsa": {
-    "fecha": "06-06",
+    "fecha": "07-06",
     "pega_3_mas": [
-      "19",
-      "07",
-      "26"
+      "48",
+      "45",
+      "16"
     ],
     "quiniela_leidsa": [
       "46",
       "18",
       "14"
     ],
-    "fecha_loto_pool": "06-06",
+    "fecha_loto_pool": "07-06",
     "loto_pool": [
-      "11",
-      "14",
-      "18",
-      "24",
-      "26"
+      "07",
+      "13",
+      "15",
+      "19",
+      "31"
     ],
     "fecha_super_kino": "06-06",
     "super_kino_tv": [
@@ -126,10 +126,10 @@
       "28",
       "35"
     ],
-    "fecha_super_pale": "06-06",
+    "fecha_super_pale": "07-06",
     "super_pale": [
-      "11",
-      "13"
+      "57",
+      "96"
     ],
     "fecha_chance_real": "06-06",
     "chance_real": [
