@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-07 01:53:03",
+  "actualizado": "2026-06-07 06:09:25",
   "nacional": {
     "fecha": "06-06",
     "fecha_juega_pega": "06-06",
@@ -384,11 +384,11 @@
       "68",
       "68"
     ],
-    "fecha_noche": "05-06",
+    "fecha_noche": "06-06",
     "new_york_noche": [
-      "55",
-      "17",
-      "73"
+      "14",
+      "40",
+      "85"
     ]
   },
   "new_york_completo": {
@@ -405,11 +405,11 @@
       "6",
       "8"
     ],
-    "fecha_numbers_noche": "05-06",
+    "fecha_numbers_noche": "06-06",
     "numbers_noche": [
-      "9",
-      "5",
-      "5"
+      "8",
+      "1",
+      "4"
     ],
     "fecha_take5_midday": "06-06",
     "take5_midday": [
@@ -419,20 +419,20 @@
       "31",
       "33"
     ],
-    "fecha_win4_noche": "05-06",
+    "fecha_win4_noche": "06-06",
     "win4_noche": [
-      "1",
-      "7",
-      "7",
-      "3"
+      "4",
+      "0",
+      "8",
+      "5"
     ],
-    "fecha_take5_noche": "05-06",
+    "fecha_take5_noche": "06-06",
     "take5_noche": [
-      "08",
-      "23",
+      "15",
+      "20",
       "25",
-      "28",
-      "33"
+      "35",
+      "39"
     ],
     "fecha_new_york_lotto": "06-06",
     "new_york_lotto": [
@@ -467,24 +467,24 @@
       "66",
       "02"
     ],
-    "fecha_powerball": "03-06",
+    "fecha_powerball": "06-06",
     "powerball": [
-      "14",
       "16",
-      "38",
+      "32",
       "55",
+      "59",
       "64",
-      "12"
+      "03"
     ],
     "powerplay": "3X",
-    "fecha_powerball_double_play": "03-06",
+    "fecha_powerball_double_play": "06-06",
     "powerball_double_play": [
+      "03",
+      "18",
       "26",
-      "28",
-      "31",
-      "56",
-      "64",
-      "13"
+      "52",
+      "54",
+      "08"
     ],
     "fecha_cash_4_life": "21-02",
     "cash_4_life": [
