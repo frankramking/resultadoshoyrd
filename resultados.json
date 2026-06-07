@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-07 22:17:01",
+  "actualizado": "2026-06-07 23:31:23",
   "nacional": {
     "fecha": "07-06",
     "fecha_juega_pega": "07-06",
@@ -199,24 +199,24 @@
       "06",
       "25"
     ],
-    "fecha_quinielon_noche": "06-06",
+    "fecha_quinielon_noche": "07-06",
     "quinielon_noche": [
-      "86"
+      "33"
     ],
-    "fecha_noche": "06-06",
+    "fecha_noche": "07-06",
     "primera_noche": [
-      "95",
-      "90",
-      "83"
+      "85",
+      "09",
+      "39"
     ],
-    "fecha_loto5": "06-06",
+    "fecha_loto5": "07-06",
     "loto_5": [
-      "12",
-      "19",
-      "08",
-      "07",
+      "03",
+      "10",
+      "38",
+      "34",
       "04",
-      "10"
+      "03"
     ]
   },
   "suerte": {
