@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-07 23:31:23",
+  "actualizado": "2026-06-08 01:41:11",
   "nacional": {
     "fecha": "07-06",
     "fecha_juega_pega": "07-06",
@@ -131,50 +131,50 @@
       "57",
       "96"
     ],
-    "fecha_chance_real": "06-06",
+    "fecha_chance_real": "07-06",
     "chance_real": [
-      "52",
-      "66",
-      "83",
-      "39",
-      "06"
+      "73",
+      "91",
+      "57",
+      "65",
+      "01"
     ],
-    "fecha_repartidera_real": "06-06",
+    "fecha_repartidera_real": "07-06",
     "repartidera_real": [
-      "96"
+      "18"
     ],
-    "fecha_loto_pool_noche": "06-06",
+    "fecha_loto_pool_noche": "07-06",
     "loto_pool_noche": [
-      "41",
-      "13",
-      "56",
-      "51"
+      "23",
+      "27",
+      "69",
+      "64"
     ]
   },
   "loteka": {
-    "fecha_toca_3": "06-06",
+    "fecha_toca_3": "07-06",
     "toca_3": [
-      "4",
-      "6",
-      "5"
+      "8",
+      "7",
+      "7"
     ],
-    "fecha": "06-06",
+    "fecha": "07-06",
     "quiniela_loteka": [
-      "99",
-      "21",
-      "94"
+      "37",
+      "56",
+      "11"
     ],
-    "fecha_mega_chance": "06-06",
+    "fecha_mega_chance": "07-06",
     "mega_chance": [
-      "48",
+      "50",
+      "09",
       "97",
-      "76",
-      "02",
-      "86"
+      "09",
+      "49"
     ],
-    "fecha_mc_repartidera": "06-06",
+    "fecha_mc_repartidera": "07-06",
     "mc_repartidera": [
-      "41"
+      "13"
     ],
     "fecha_megalotto": "04-06",
     "megalotto": [
@@ -297,18 +297,18 @@
       "44",
       "84"
     ],
-    "fecha_noche": "06-06",
+    "fecha_noche": "07-06",
     "anguila_noche": [
-      "47",
-      "84",
-      "97"
-    ],
-    "fecha_cuarteta_noche": "06-06",
-    "cuarteta_noche": [
-      "77",
       "55",
-      "30",
-      "09"
+      "31",
+      "19"
+    ],
+    "fecha_cuarteta_noche": "07-06",
+    "cuarteta_noche": [
+      "55",
+      "07",
+      "04",
+      "76"
     ]
   },
   "king_lottery": {
@@ -318,11 +318,11 @@
       "34",
       "40"
     ],
-    "fecha_730": "06-06",
+    "fecha_730": "07-06",
     "king_730": [
-      "01",
-      "44",
-      "66"
+      "17",
+      "08",
+      "21"
     ],
     "fecha_pick3_dia": "07-06",
     "pick3_dia": [
@@ -350,31 +350,31 @@
       "74",
       "33"
     ],
-    "fecha_pick3_noche": "06-06",
+    "fecha_pick3_noche": "07-06",
     "pick3_noche": [
-      "3",
+      "5",
+      "1",
+      "7"
+    ],
+    "fecha_pick4_noche": "07-06",
+    "pick4_noche": [
       "0",
+      "8",
+      "2",
       "1"
     ],
-    "fecha_pick4_noche": "06-06",
-    "pick4_noche": [
-      "4",
-      "4",
-      "6",
-      "6"
-    ],
-    "fecha_philipsburg_noche": "06-06",
+    "fecha_philipsburg_noche": "07-06",
     "philipsburg_noche": [
-      "4424",
-      "7741",
-      "8610"
+      "4031",
+      "9526",
+      "1276"
     ],
-    "fecha_loto_pool_noche": "06-06",
+    "fecha_loto_pool_noche": "07-06",
     "loto_pool_noche": [
-      "44",
-      "30",
-      "42",
-      "60"
+      "59",
+      "43",
+      "63",
+      "73"
     ]
   },
   "new_york": {
