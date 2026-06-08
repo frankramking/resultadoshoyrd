@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-08 14:53:34",
+  "actualizado": "2026-06-08 17:40:03",
   "nacional": {
     "fecha": "07-06",
     "fecha_juega_pega": "07-06",
@@ -86,10 +86,10 @@
     ]
   },
   "real": {
-    "fecha": "07-06",
-    "fecha_tu_fecha_real": "07-06",
+    "fecha": "08-06",
+    "fecha_tu_fecha_real": "08-06",
     "tu_fecha_real": [
-      "15"
+      "31"
     ],
     "fecha_pega4_real": "31-03",
     "pega4_real": [
@@ -98,25 +98,25 @@
       "2",
       "0"
     ],
-    "fecha_loto_pool_real": "07-06",
+    "fecha_loto_pool_real": "08-06",
     "loto_pool_real": [
-      "97",
-      "04",
-      "62",
-      "63"
+      "69",
+      "15",
+      "73",
+      "48"
     ],
     "quiniela_real": [
-      "57",
-      "99",
-      "26"
+      "12",
+      "81",
+      "31"
     ],
-    "fecha_nueva_yol_real": "07-06",
+    "fecha_nueva_yol_real": "08-06",
     "nueva_yol_real": [
-      "45",
-      "73",
-      "58"
+      "97",
+      "20",
+      "85"
     ],
-    "nueva_yol_color": "Amarilla",
+    "nueva_yol_color": "Verde",
     "fecha_loto_real": "05-06",
     "loto_real": [
       "03",
@@ -189,15 +189,15 @@
     ]
   },
   "primera": {
-    "fecha_quinielon_dia": "07-06",
+    "fecha_quinielon_dia": "08-06",
     "quinielon_dia": [
-      "29"
+      "55"
     ],
-    "fecha_dia": "07-06",
+    "fecha_dia": "08-06",
     "la_primera_dia": [
-      "72",
-      "06",
-      "25"
+      "75",
+      "77",
+      "73"
     ],
     "fecha_quinielon_noche": "07-06",
     "quinielon_noche": [
@@ -220,11 +220,11 @@
     ]
   },
   "suerte": {
-    "fecha_1230": "07-06",
+    "fecha_1230": "08-06",
     "la_suerte_1230": [
-      "43",
-      "73",
-      "55"
+      "38",
+      "93",
+      "94"
     ],
     "fecha_1800": "07-06",
     "la_suerte_1800": [
@@ -234,27 +234,27 @@
     ]
   },
   "lotedom": {
-    "fecha_quiniela": "07-06",
+    "fecha_quiniela": "08-06",
     "quiniela_lotedom": [
-      "34",
-      "83",
+      "31",
+      "18",
       "12"
     ],
-    "fecha_quemaito": "07-06",
+    "fecha_quemaito": "08-06",
     "quemaito_mayor": [
-      "26"
+      "92"
     ],
-    "fecha_super_pale": "07-06",
+    "fecha_super_pale": "08-06",
     "super_pale": [
-      "34",
-      "26"
+      "31",
+      "92"
     ],
-    "fecha_agarra_4": "07-06",
+    "fecha_agarra_4": "08-06",
     "agarra_4": [
-      "34",
-      "83",
+      "31",
+      "18",
       "12",
-      "26"
+      "92"
     ]
   },
   "anguila": {
@@ -271,18 +271,18 @@
       "15",
       "00"
     ],
-    "fecha_medio_dia": "07-06",
+    "fecha_medio_dia": "08-06",
     "anguila_medio_dia": [
-      "34",
-      "30",
-      "06"
+      "46",
+      "08",
+      "45"
     ],
-    "fecha_cuarteta_medio_dia": "07-06",
+    "fecha_cuarteta_medio_dia": "08-06",
     "cuarteta_medio_dia": [
-      "48",
-      "36",
-      "78",
-      "33"
+      "11",
+      "07",
+      "11",
+      "84"
     ],
     "fecha_tarde": "07-06",
     "anguila_tarde": [
@@ -312,11 +312,11 @@
     ]
   },
   "king_lottery": {
-    "fecha_1230": "07-06",
+    "fecha_1230": "08-06",
     "king_1230": [
-      "27",
-      "34",
-      "40"
+      "54",
+      "84",
+      "42"
     ],
     "fecha_730": "07-06",
     "king_730": [
@@ -324,31 +324,31 @@
       "08",
       "21"
     ],
-    "fecha_pick3_dia": "07-06",
+    "fecha_pick3_dia": "08-06",
     "pick3_dia": [
-      "9",
-      "2",
-      "7"
+      "4",
+      "5",
+      "4"
     ],
-    "fecha_pick4_dia": "07-06",
+    "fecha_pick4_dia": "08-06",
     "pick4_dia": [
-      "3",
+      "8",
       "4",
       "4",
-      "0"
+      "2"
     ],
-    "fecha_philipsburg_medio_dia": "07-06",
+    "fecha_philipsburg_medio_dia": "08-06",
     "philipsburg_medio_dia": [
-      "0421",
-      "6617",
-      "2567"
+      "2472",
+      "5765",
+      "3272"
     ],
-    "fecha_loto_pool_medio_dia": "07-06",
+    "fecha_loto_pool_medio_dia": "08-06",
     "loto_pool_medio_dia": [
-      "87",
-      "99",
-      "74",
-      "33"
+      "51",
+      "90",
+      "95",
+      "27"
     ],
     "fecha_pick3_noche": "07-06",
     "pick3_noche": [
@@ -446,11 +446,11 @@
     ]
   },
   "americanas": {
-    "fecha_florida_dia": "07-06",
+    "fecha_florida_dia": "08-06",
     "florida_dia": [
-      "41",
-      "06",
-      "90"
+      "05",
+      "31",
+      "60"
     ],
     "fecha_florida_noche": "07-06",
     "florida_noche": [
