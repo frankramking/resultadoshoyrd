@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-12 02:02:34",
+  "actualizado": "2026-06-12 06:52:09",
   "nacional": {
     "fecha": "11-06",
     "fecha_juega_pega": "11-06",
@@ -384,11 +384,11 @@
       "33",
       "15"
     ],
-    "fecha_noche": "10-06",
+    "fecha_noche": "11-06",
     "new_york_noche": [
-      "89",
-      "78",
-      "42"
+      "39",
+      "52",
+      "48"
     ]
   },
   "new_york_completo": {
@@ -405,10 +405,10 @@
       "1",
       "5"
     ],
-    "fecha_numbers_noche": "10-06",
+    "fecha_numbers_noche": "11-06",
     "numbers_noche": [
-      "1",
-      "8",
+      "5",
+      "3",
       "9"
     ],
     "fecha_take5_midday": "11-06",
@@ -419,20 +419,20 @@
       "25",
       "39"
     ],
-    "fecha_win4_noche": "10-06",
+    "fecha_win4_noche": "11-06",
     "win4_noche": [
-      "7",
-      "8",
+      "5",
+      "2",
       "4",
-      "2"
+      "8"
     ],
-    "fecha_take5_noche": "10-06",
+    "fecha_take5_noche": "11-06",
     "take5_noche": [
-      "02",
-      "14",
-      "29",
-      "33",
-      "35"
+      "03",
+      "06",
+      "12",
+      "20",
+      "21"
     ],
     "fecha_new_york_lotto": "10-06",
     "new_york_lotto": [
